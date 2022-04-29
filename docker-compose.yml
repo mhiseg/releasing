@@ -17,7 +17,7 @@ services:
   # openmrs
   openmrs:
     build: openmrs
-    image: mhiseg:0.1
+    image: mhiseg-openmrs-backend:0.0.1
     depends_on:
       - db
     environment:
@@ -36,7 +36,7 @@ services:
   # frontend
   frontend:
     build: frontend
-    image: spa:0.1
+    image: mhiseg-openmrs-spa-frontend:0.0.1
     environment:
       SPA_PATH: spa
       API_URL: /openmrs
@@ -47,7 +47,7 @@ services:
   # Proxy
   proxy:
     build: proxy
-    image: proxy:0.1
+    image:  mhiseg-openmrs-proxy:0.0.1
     depends_on:
       - frontend
       - openmrs
