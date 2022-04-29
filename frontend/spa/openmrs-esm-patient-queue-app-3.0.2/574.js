@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_queue_app=self.webpackChunk_openmrs_esm_patient_queue_app||[]).push([[574],{574:e=>{e.exports=JSON.parse('{"home":"Home","patients":"Patients"}')}}]);

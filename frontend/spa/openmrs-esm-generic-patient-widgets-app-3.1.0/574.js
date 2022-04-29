@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_generic_patient_widgets_app=self.webpackChunk_openmrs_esm_generic_patient_widgets_app||[]).push([[574],{3574:e=>{e.exports=JSON.parse('{"chartView":"Chart View","displaying":"Displaying","tableView":"Table View"}')}}]);

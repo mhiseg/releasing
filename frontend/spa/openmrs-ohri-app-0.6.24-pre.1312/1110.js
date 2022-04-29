@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkopenmrs_ohri_app=self.webpackChunkopenmrs_ohri_app||[]).push([[1110],{1110:(e,s,r)=>{r.r(s),r.d(s,{default:()=>p});var n=r(50576);const p=function(){return n.createElement("div",null,"This is the hts summary page")}}}]);
+//# sourceMappingURL=1110.js.map

@@ -1,0 +1,699 @@
+{
+  "chunks": [
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "341ad7aec1fda67bb43a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 28797,
+      "sizes": {
+        "javascript": 28797
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "188.js"
+      ],
+      "auxiliaryFiles": [
+        "188.js.map"
+      ],
+      "hash": "615887e03cf95bacbdb6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 216912,
+      "sizes": {
+        "javascript": 216912
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "214.js"
+      ],
+      "auxiliaryFiles": [
+        "214.js.map"
+      ],
+      "hash": "4b4e82916813306f5b96",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1758777,
+      "sizes": {
+        "javascript": 1758777
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "251.js"
+      ],
+      "auxiliaryFiles": [
+        "251.js.map"
+      ],
+      "hash": "fcfffb6956fa2f12ceda",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 319195,
+      "sizes": {
+        "javascript": 319195
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "293.js"
+      ],
+      "auxiliaryFiles": [
+        "293.js.map"
+      ],
+      "hash": "97ff69a6775df99a2e4f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 498926,
+      "sizes": {
+        "javascript": 498926
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [
+        "300.js.map"
+      ],
+      "hash": "e24126610be7f895b5fe",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 316642,
+      "sizes": {
+        "javascript": 316642
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "339.js"
+      ],
+      "auxiliaryFiles": [
+        "339.js.map"
+      ],
+      "hash": "e72327388fb751bd90db",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 34481,
+      "sizes": {
+        "javascript": 34481
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "373.js"
+      ],
+      "auxiliaryFiles": [
+        "373.js.map"
+      ],
+      "hash": "4436cff61d807980c7b7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 109242,
+      "sizes": {
+        "javascript": 109242
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "402.js"
+      ],
+      "auxiliaryFiles": [
+        "402.js.map"
+      ],
+      "hash": "f57b4e914050773fb8f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2429,
+      "sizes": {
+        "javascript": 2429
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "433.js"
+      ],
+      "auxiliaryFiles": [
+        "433.js.map"
+      ],
+      "hash": "b6f75eb22adb3b9db5fe",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 478002,
+      "sizes": {
+        "javascript": 477960,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "482.js"
+      ],
+      "auxiliaryFiles": [
+        "482.js.map"
+      ],
+      "hash": "6a40645daac1938091e3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 670,
+      "sizes": {
+        "javascript": 670
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "530.js"
+      ],
+      "auxiliaryFiles": [
+        "530.js.map"
+      ],
+      "hash": "09c6bb8553ddfd34c6e7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 50846,
+      "sizes": {
+        "javascript": 50804,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "543.js"
+      ],
+      "auxiliaryFiles": [
+        "543.js.map"
+      ],
+      "hash": "ea7cceef9e7808f6f6b0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 134995,
+      "sizes": {
+        "javascript": 134995
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "552.js"
+      ],
+      "auxiliaryFiles": [
+        "552.js.map"
+      ],
+      "hash": "71aa8af77b32d009337e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 60052,
+      "sizes": {
+        "javascript": 60052
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "562.js"
+      ],
+      "auxiliaryFiles": [
+        "562.js.map"
+      ],
+      "hash": "847b83cd09cde9912e4d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "96181f92aab2add4be64",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1073,
+      "sizes": {
+        "javascript": 1073
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "39d9d96fce0924776688",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 157872,
+      "sizes": {
+        "javascript": 157872
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "610.js"
+      ],
+      "auxiliaryFiles": [
+        "610.js.map"
+      ],
+      "hash": "fb3d34fecd69c591b120",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 615977,
+      "sizes": {
+        "javascript": 615977
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "635.js"
+      ],
+      "auxiliaryFiles": [
+        "635.js.map"
+      ],
+      "hash": "0df89fb6ec3c474ed24a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 356600,
+      "sizes": {
+        "javascript": 356600
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "671.js"
+      ],
+      "auxiliaryFiles": [
+        "671.js.map"
+      ],
+      "hash": "6246f8b7b51ed61be45d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 653,
+      "sizes": {
+        "javascript": 653
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "712.js"
+      ],
+      "auxiliaryFiles": [
+        "712.js.map"
+      ],
+      "hash": "c49efe8b29124f52876e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 23499,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 336,
+        "runtime": 19754
+      },
+      "names": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-notes-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-patient-notes-app.js.map"
+      ],
+      "hash": "dfd055c875f7efdfff88",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "631c6835dc08b3f943b8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 549202,
+      "sizes": {
+        "javascript": 549202
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "755.js"
+      ],
+      "auxiliaryFiles": [
+        "755.js.map"
+      ],
+      "hash": "1c04fb5ac51d6ff33595",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "61092c9474b4b6cd9f98",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "b2697d63069efaf9ee01",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6494,
+      "sizes": {
+        "javascript": 6494
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "879.js"
+      ],
+      "auxiliaryFiles": [
+        "879.js.map"
+      ],
+      "hash": "377de6d4d2c26052ab65",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "0a845fdf520fa010dc26",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 38955,
+      "sizes": {
+        "javascript": 38955
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-notes-app"
+      ],
+      "files": [
+        "932.js"
+      ],
+      "auxiliaryFiles": [
+        "932.js.map"
+      ],
+      "hash": "4651859e67139f79687f",
+      "childrenByOrder": {}
+    }
+  ]
+}

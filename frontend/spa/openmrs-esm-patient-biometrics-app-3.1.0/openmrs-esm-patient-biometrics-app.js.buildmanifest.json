@@ -1,0 +1,621 @@
+{
+  "chunks": [
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "c7acbc1247a3bc227c6f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 656,
+      "sizes": {
+        "javascript": 656
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "43.js"
+      ],
+      "auxiliaryFiles": [
+        "43.js.map"
+      ],
+      "hash": "48857833a684a49c116b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 675,
+      "sizes": {
+        "javascript": 675
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "81.js"
+      ],
+      "auxiliaryFiles": [
+        "81.js.map"
+      ],
+      "hash": "913e10bd9ddb842e8da4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 354193,
+      "sizes": {
+        "javascript": 354193
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "152.js"
+      ],
+      "auxiliaryFiles": [
+        "152.js.map"
+      ],
+      "hash": "1db0a9262201fbd7dbaa",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 246268,
+      "sizes": {
+        "javascript": 246268
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "182.js"
+      ],
+      "auxiliaryFiles": [
+        "182.js.map"
+      ],
+      "hash": "7005193a93aa7ac26bb2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 163792,
+      "sizes": {
+        "javascript": 163792
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "206.js"
+      ],
+      "auxiliaryFiles": [
+        "206.js.map"
+      ],
+      "hash": "38d3299f5d1c2fa1cdb2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 314560,
+      "sizes": {
+        "javascript": 314560
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "271.js"
+      ],
+      "auxiliaryFiles": [
+        "271.js.map"
+      ],
+      "hash": "fb84e07a7c62ce38ac73",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 316642,
+      "sizes": {
+        "javascript": 316642
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "339.js"
+      ],
+      "auxiliaryFiles": [
+        "339.js.map"
+      ],
+      "hash": "61bf09c52dc59a9b7d58",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 284006,
+      "sizes": {
+        "javascript": 284006
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "344.js"
+      ],
+      "auxiliaryFiles": [
+        "344.js.map"
+      ],
+      "hash": "b90da476b45f3dc41675",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 37701,
+      "sizes": {
+        "javascript": 37701
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "373.js"
+      ],
+      "auxiliaryFiles": [
+        "373.js.map"
+      ],
+      "hash": "ef5ed0e2d4f70a7ec80b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 109242,
+      "sizes": {
+        "javascript": 109242
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "402.js"
+      ],
+      "auxiliaryFiles": [
+        "402.js.map"
+      ],
+      "hash": "5b5509a27608f80d9675",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 478342,
+      "sizes": {
+        "javascript": 478300,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "482.js"
+      ],
+      "auxiliaryFiles": [
+        "482.js.map"
+      ],
+      "hash": "d3ea8f29c0dbc742a572",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "e4a460e2ad66f6c083be",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "dab7653eb27c98e1da14",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 23489,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 336,
+        "runtime": 19744
+      },
+      "names": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-biometrics-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-patient-biometrics-app.js.map"
+      ],
+      "hash": "2c225a720036935e0bae",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "55dbb59c7682433e7fae",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "865f4c51390c85332941",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "2c6ed255c03dd6bbd175",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 615977,
+      "sizes": {
+        "javascript": 615977
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "819.js"
+      ],
+      "auxiliaryFiles": [
+        "819.js.map"
+      ],
+      "hash": "a5117621bccef456723f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 141646,
+      "sizes": {
+        "javascript": 141646
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "868.js"
+      ],
+      "auxiliaryFiles": [
+        "868.js.map"
+      ],
+      "hash": "ea056a35c00bb9a4753c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6494,
+      "sizes": {
+        "javascript": 6494
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "879.js"
+      ],
+      "auxiliaryFiles": [
+        "879.js.map"
+      ],
+      "hash": "949474052e3cd9348563",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "5f82b7008e8520d00f00",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 38955,
+      "sizes": {
+        "javascript": 38955
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "932.js"
+      ],
+      "auxiliaryFiles": [
+        "932.js.map"
+      ],
+      "hash": "6f854831aa176d92be98",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3630579,
+      "sizes": {
+        "javascript": 3630579
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "950.js"
+      ],
+      "auxiliaryFiles": [
+        "950.js.map"
+      ],
+      "hash": "bc7ed8a6b4a1d164ec9f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3269,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 3227
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "955.js"
+      ],
+      "auxiliaryFiles": [
+        "955.js.map"
+      ],
+      "hash": "41d4d9424bf84016b8f7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 294831,
+      "sizes": {
+        "javascript": 294831
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-biometrics-app"
+      ],
+      "files": [
+        "963.js"
+      ],
+      "auxiliaryFiles": [
+        "963.js.map"
+      ],
+      "hash": "1a69f719c7e192a01372",
+      "childrenByOrder": {}
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+(window.webpackJsonp_pih_esm_referrals_queue=window.webpackJsonp_pih_esm_referrals_queue||[]).push([[3],{8:function(e){e.exports=JSON.parse('{"any":"Any","details":"Details","emr-id":"EMR ID","filter-by-patient":"Filter by patient","from":"From","name":"Name","referral-date":"Referral Date","referral-type":"Referral Type","referrals-queue":"Referrals Queue","status":"Status","to":"To"}')}}]);
+//# sourceMappingURL=3.pih-esm-referrals-queue-app.js.map

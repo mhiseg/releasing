@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@mhiseg/esm-home-app": "./mhiseg-esm-home-app-0.0.1/mhiseg-esm-home-app.js",
+    "@openmrs/esm-devtools-app": "./openmrs-esm-devtools-app-3.2.0/openmrs-esm-devtools-app.js",
+    "@openmrs/esm-primary-navigation-app": "./openmrs-esm-primary-navigation-app-3.2.0/openmrs-esm-primary-navigation-app.js",
+    "@openmrs/esm-login-app": "./openmrs-esm-login-app-3.2.0/openmrs-esm-login-app.js"
+  }
+}

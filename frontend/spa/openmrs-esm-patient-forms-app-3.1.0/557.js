@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_forms_app=self.webpackChunk_openmrs_esm_patient_forms_app||[]).push([[557],{4482:(e,t,a)=>{a.r(t),a.d(t,{default:()=>i});var n=a(9902),p=a.n(n),s=a(3257),r=a(4924);const i=e=>{let{patientUuid:t,patient:a,isOffline:n}=e;const{t:i}=(0,r.useTranslation)(),m=i("goToSummary","Go to Summary"),u=`\${openmrsSpaBase}/patient/${t}/chart/summary`;return p().createElement(s.Z,{patientUuid:t,patient:a,pageSize:10,urlLabel:m,pageUrl:u,isOffline:n})}}}]);
+//# sourceMappingURL=557.js.map

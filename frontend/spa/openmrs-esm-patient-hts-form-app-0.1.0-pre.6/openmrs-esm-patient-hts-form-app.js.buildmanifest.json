@@ -1,0 +1,71 @@
+{
+  "errors": [],
+  "warnings": [],
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 3690,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "openmrs-esm-patient-hts-form-app.js",
+        "openmrs-esm-patient-hts-form-app.js.map"
+      ],
+      "hash": "3681e119a93923aec34b",
+      "siblings": [],
+      "parents": [],
+      "children": [
+        1,
+        2
+      ],
+      "childrenByOrder": {}
+    },
+    {
+      "id": 1,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: vendors)",
+      "size": 1702510,
+      "names": [],
+      "files": [
+        "1.openmrs-esm-patient-hts-form-app.js",
+        "1.openmrs-esm-patient-hts-form-app.js.map"
+      ],
+      "hash": "af1fa198dda09667981a",
+      "siblings": [
+        2
+      ],
+      "parents": [
+        0
+      ],
+      "children": [],
+      "childrenByOrder": {}
+    },
+    {
+      "id": 2,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 10081,
+      "names": [],
+      "files": [
+        "2.openmrs-esm-patient-hts-form-app.js",
+        "2.openmrs-esm-patient-hts-form-app.js.map"
+      ],
+      "hash": "26a3bbf1e17290d43568",
+      "siblings": [
+        1
+      ],
+      "parents": [
+        0
+      ],
+      "children": [],
+      "childrenByOrder": {}
+    }
+  ]
+}

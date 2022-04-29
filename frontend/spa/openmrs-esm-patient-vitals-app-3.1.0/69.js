@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_vitals_app=self.webpackChunk_openmrs_esm_patient_vitals_app||[]).push([[69],{2069:(a,e,t)=>{t.r(e),t.d(e,{default:()=>r});var s=t(9902),n=t.n(s),p=t(4924),i=t(2925);const r=a=>{let{patientUuid:e,showAddVitals:t,basePath:s}=a;const{t:r}=(0,p.useTranslation)(),l=window.spaBase+s+"/summary",u=r("goToSummary","Go to Summary");return n().createElement(i.Z,{patientUuid:e,showAddVitals:t,pageSize:10,urlLabel:u,pageUrl:l})}}}]);
+//# sourceMappingURL=69.js.map

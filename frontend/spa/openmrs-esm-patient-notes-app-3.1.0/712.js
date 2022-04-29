@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_notes_app=self.webpackChunk_openmrs_esm_patient_notes_app||[]).push([[712],{3712:(e,t,a)=>{a.r(t),a.d(t,{default:()=>l});var n=a(9902),s=a.n(n),p=a(4924),o=a(3543);const l=e=>{let{patientUuid:t,patient:a,showAddNote:n,basePath:l}=e;const{t:i}=(0,p.useTranslation)(),r=window.spaBase+l+"/encounters/notes",u=i("seeAll","See all");return s().createElement(o.Z,{patientUuid:t,patient:a,showAddNote:n,pageSize:5,urlLabel:u,pageUrl:r})}}}]);
+//# sourceMappingURL=712.js.map

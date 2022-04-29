@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_allergies_app=self.webpackChunk_openmrs_esm_patient_allergies_app||[]).push([[757],{2757:e=>{e.exports={}}}]);

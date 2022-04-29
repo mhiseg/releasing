@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_vitals_app=self.webpackChunk_openmrs_esm_patient_vitals_app||[]).push([[78],{5925:(e,a,t)=>{t.r(a),t.d(a,{default:()=>p});var s=t(9902),l=t.n(s),i=t(4924),n=t(2925);const p=e=>{let{patientUuid:a,showAddVitals:t,basePath:s}=e;const{t:p}=(0,i.useTranslation)(),r=window.spaBase+s+"/vitalsAndBiometrics/vitals",d=p("seeAll","See all");return l().createElement(n.Z,{patientUuid:a,showAddVitals:t,pageSize:5,urlLabel:d,pageUrl:r})}}}]);
+//# sourceMappingURL=78.js.map

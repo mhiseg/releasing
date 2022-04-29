@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[990],{990:(e,n,p)=>{p.r(n),p.d(n,{default:()=>s});var t=p(297),a=p(512);function s(){return t.default.createElement(a.ConfigurableLink,{to:"${openmrsBase}/appointmentschedulingui/home.page"},"Appointment Scheduling")}}}]);
+//# sourceMappingURL=990.openmrs-esm-home-app.js.map

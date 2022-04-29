@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[347],{347:(e,a,p)=>{p.r(a),p.d(a,{default:()=>r});var n=p(297),t=p(512);function r(){return n.default.createElement(t.ConfigurableLink,{to:"${openmrsBase}/coreapps/findpatient/findPatient.page?app=referenceapplication.vitals"},"Capture Vitals")}}}]);
+//# sourceMappingURL=347.openmrs-esm-home-app.js.map

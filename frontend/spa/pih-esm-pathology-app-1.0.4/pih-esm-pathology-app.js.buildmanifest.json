@@ -1,0 +1,228 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 303949,
+      "sizes": {
+        "javascript": 303949
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "16.js"
+      ],
+      "auxiliaryFiles": [
+        "16.js.map"
+      ],
+      "hash": "d77dcda69b25a773a622",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 616000,
+      "sizes": {
+        "javascript": 616000
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "24.js"
+      ],
+      "auxiliaryFiles": [
+        "24.js.map"
+      ],
+      "hash": "89eaaa719181ac560f7b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22618,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 126,
+        "runtime": 19083
+      },
+      "names": [
+        "@pih/esm-pathology-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "pih-esm-pathology-app.js"
+      ],
+      "auxiliaryFiles": [
+        "pih-esm-pathology-app.js.map"
+      ],
+      "hash": "b0fb8cefad955404025b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 6532851,
+      "sizes": {
+        "javascript": 6532851
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "248.js"
+      ],
+      "auxiliaryFiles": [
+        "248.js.map"
+      ],
+      "hash": "970f4af783dc1319950f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "294.js"
+      ],
+      "auxiliaryFiles": [
+        "294.js.map"
+      ],
+      "hash": "8ebdb7f16fc1e792694b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5cec8def1ceba3bf77a3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 252489,
+      "sizes": {
+        "javascript": 36211,
+        "asset": 216194,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "861.js"
+      ],
+      "auxiliaryFiles": [
+        "00ebb57bb20c59433e84.gif",
+        "5b8bb278fcab4da4972e.ttf",
+        "861.js.map",
+        "a5fad24f075c978ac04b.ttf"
+      ],
+      "hash": "05ae9b64823632a05081",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7396,
+      "sizes": {
+        "javascript": 7354,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "867.js"
+      ],
+      "auxiliaryFiles": [
+        "867.js.map"
+      ],
+      "hash": "842f864c8ccc9e711d9d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6865,
+      "sizes": {
+        "javascript": 6865
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@pih/esm-pathology-app"
+      ],
+      "files": [
+        "976.js"
+      ],
+      "auxiliaryFiles": [
+        "976.js.map"
+      ],
+      "hash": "3217bf1b469949a3ee49",
+      "childrenByOrder": {}
+    }
+  ]
+}

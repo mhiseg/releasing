@@ -1,0 +1,2 @@
+(self.webpackChunkopenmrs_esm_histac_ohri_app=self.webpackChunkopenmrs_esm_histac_ohri_app||[]).push([[310],{7310:(e,a,s)=>{"use strict";s.r(a),s.d(a,{default:()=>u});var n=s(6512),r=s(9297),t=s(7789);function u(){const{t:e}=(0,t.useTranslation)();return r.default.createElement(n.ConfigurableLink,{to:"hts-summary-page",className:"bx--side-nav__link"},e("HTS summary page","HTS summary page"))}}}]);
+//# sourceMappingURL=310.openmrs-esm-histac-ohri-app.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_list_app=self.webpackChunk_openmrs_esm_patient_list_app||[]).push([[214],{3214:(t,e,n)=>{n.r(e),n.d(e,{default:()=>r});var s=n(9902),a=n.n(s),p=n(4924),i=n(9035);function r(){const{t}=(0,p.useTranslation)();return a().createElement(i.ConfigurableLink,{to:"${openmrsSpaBase}/patient-list"},t("patientListAppMenuLink","Patient Lists"))}}}]);
+//# sourceMappingURL=214.js.map

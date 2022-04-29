@@ -1,0 +1,705 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 300627,
+      "sizes": {
+        "javascript": 300627
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "9.js"
+      ],
+      "auxiliaryFiles": [
+        "9.js.map"
+      ],
+      "hash": "36941a158120cf226b43",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4209,
+      "sizes": {
+        "javascript": 4209
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "44.js"
+      ],
+      "auxiliaryFiles": [
+        "44.js.map"
+      ],
+      "hash": "a94907d8d26af911cea2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "82f48cdfd34511f61797",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2140326,
+      "sizes": {
+        "javascript": 2140326
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "163.js"
+      ],
+      "auxiliaryFiles": [
+        "163.js.map"
+      ],
+      "hash": "980d6613bacead82aa84",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 22121,
+      "sizes": {
+        "javascript": 22121
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "247.js"
+      ],
+      "auxiliaryFiles": [
+        "247.js.map"
+      ],
+      "hash": "5bb6c0cd26c83e037f6e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 315207,
+      "sizes": {
+        "javascript": 315207
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "339.js"
+      ],
+      "auxiliaryFiles": [
+        "339.js.map"
+      ],
+      "hash": "1eef42021f49023e18c7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 34481,
+      "sizes": {
+        "javascript": 34481
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "373.js"
+      ],
+      "auxiliaryFiles": [
+        "373.js.map"
+      ],
+      "hash": "1cfc5d3c02509142f887",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 109242,
+      "sizes": {
+        "javascript": 109242
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "402.js"
+      ],
+      "auxiliaryFiles": [
+        "402.js.map"
+      ],
+      "hash": "6b057375674b9d77e630",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 256455,
+      "sizes": {
+        "javascript": 256455
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "455.js"
+      ],
+      "auxiliaryFiles": [
+        "455.js.map"
+      ],
+      "hash": "0f8c571ed7ac7db83f20",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 259928,
+      "sizes": {
+        "javascript": 259928
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "460.js"
+      ],
+      "auxiliaryFiles": [
+        "460.js.map"
+      ],
+      "hash": "aeb00f25dc40f41a2d0b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 714803,
+      "sizes": {
+        "javascript": 714803
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "559.js"
+      ],
+      "auxiliaryFiles": [
+        "559.js.map"
+      ],
+      "hash": "db05646c6ad3d76945ad",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4368,
+      "sizes": {
+        "javascript": 4368
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a46fc3093793c7b94a7b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 16236,
+      "sizes": {
+        "javascript": 16236
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "578.js"
+      ],
+      "auxiliaryFiles": [
+        "578.js.map"
+      ],
+      "hash": "180c330737eb5a409161",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 71653,
+      "sizes": {
+        "javascript": 71653
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "604.js"
+      ],
+      "auxiliaryFiles": [
+        "604.js.map"
+      ],
+      "hash": "73962299f05616451fbd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 616000,
+      "sizes": {
+        "javascript": 616000
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "635.js"
+      ],
+      "auxiliaryFiles": [
+        "635.js.map"
+      ],
+      "hash": "b3278f3cf36a0b252179",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3261,
+      "sizes": {
+        "javascript": 3261
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "644.js"
+      ],
+      "auxiliaryFiles": [
+        "644.js.map"
+      ],
+      "hash": "e71683756fa558392043",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22021,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 210,
+        "runtime": 18402
+      },
+      "names": [
+        "esm-ohri-covid-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "esm-ohri-covid-app.js"
+      ],
+      "auxiliaryFiles": [
+        "esm-ohri-covid-app.js.map"
+      ],
+      "hash": "c102510412b44e960360",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 34322,
+      "sizes": {
+        "javascript": 34322
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "699.js"
+      ],
+      "auxiliaryFiles": [
+        "699.js.map"
+      ],
+      "hash": "9eb6e588442aae2a3cb6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "8b29093df428e983d778",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 317086,
+      "sizes": {
+        "javascript": 317086
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "729.js"
+      ],
+      "auxiliaryFiles": [
+        "729.js.map"
+      ],
+      "hash": "63ff335c5c97352a4544",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 42014,
+      "sizes": {
+        "javascript": 42014
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "736.js"
+      ],
+      "auxiliaryFiles": [
+        "736.js.map"
+      ],
+      "hash": "7b8f8a00c17365641a19",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1777,
+      "sizes": {
+        "javascript": 1777
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "760.js"
+      ],
+      "auxiliaryFiles": [
+        "760.js.map"
+      ],
+      "hash": "49e79a46ca05e4636a6a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "7c5719e28b611f4c51d4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 334097,
+      "sizes": {
+        "javascript": 334097
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "830.js"
+      ],
+      "auxiliaryFiles": [
+        "830.js.map"
+      ],
+      "hash": "31daaedbbd1cc617f770",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1860,
+      "sizes": {
+        "javascript": 1860
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "839.js"
+      ],
+      "auxiliaryFiles": [
+        "839.js.map"
+      ],
+      "hash": "5fc34d95a4705dc764a2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10848,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 10764
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "870.js"
+      ],
+      "auxiliaryFiles": [
+        "870.js.map"
+      ],
+      "hash": "e5e11fa621703230e75b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 106657,
+      "sizes": {
+        "javascript": 106657
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "881.js"
+      ],
+      "auxiliaryFiles": [
+        "881.js.map"
+      ],
+      "hash": "4b0696ae6ef8c9367778",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 300031,
+      "sizes": {
+        "javascript": 300031
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "912.js"
+      ],
+      "auxiliaryFiles": [
+        "912.js.map"
+      ],
+      "hash": "7349504f4e59980fcaa2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 38955,
+      "sizes": {
+        "javascript": 38955
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-covid-app"
+      ],
+      "files": [
+        "932.js"
+      ],
+      "auxiliaryFiles": [
+        "932.js.map"
+      ],
+      "hash": "478fab8c8dc302c22a67",
+      "childrenByOrder": {}
+    }
+  ]
+}

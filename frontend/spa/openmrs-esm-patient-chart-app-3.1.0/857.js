@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_chart_app=self.webpackChunk_openmrs_esm_patient_chart_app||[]).push([[857],{3857:(e,t,a)=>{a.r(t),a.d(t,{default:()=>i});var n=a(9902),s=a.n(n),p=a(9035),r=a(8394);const i=()=>{const{patientUuid:e}=(0,p.usePatient)(),t=(0,n.useMemo)((()=>r.JB.replace(":patientUuid",e)),[e]);return s().createElement(p.ExtensionSlot,{state:{basePath:t},extensionSlotName:"patient-chart-dashboard-slot"})}}}]);
+//# sourceMappingURL=857.js.map

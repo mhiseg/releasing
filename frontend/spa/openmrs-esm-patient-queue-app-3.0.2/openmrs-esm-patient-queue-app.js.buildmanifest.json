@@ -1,0 +1,216 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 38955,
+      "sizes": {
+        "javascript": 38955
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "248.js"
+      ],
+      "auxiliaryFiles": [
+        "248.js.map"
+      ],
+      "hash": "198ba2bdd3037d2734f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b5be3516997621cfa815",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 298456,
+      "sizes": {
+        "javascript": 298456
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "339.js"
+      ],
+      "auxiliaryFiles": [
+        "339.js.map"
+      ],
+      "hash": "571909aed684982f53d9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 47,
+      "sizes": {
+        "javascript": 47
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0dc3126d57ebde78ba6c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21173,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 126,
+        "runtime": 17638
+      },
+      "names": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-queue-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-patient-queue-app.js.map"
+      ],
+      "hash": "292cbdc2601367a83421",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1179,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 1137
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "745.js"
+      ],
+      "auxiliaryFiles": [
+        "745.js.map"
+      ],
+      "hash": "124f6fd9b0aef16f0a66",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104140,
+      "sizes": {
+        "javascript": 104098,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "772.js"
+      ],
+      "auxiliaryFiles": [
+        "772.js.map"
+      ],
+      "hash": "0e8dbf956e026d32f81c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "a495fe54f0a34d5bde4b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-queue-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "3d27e76931f9a8580971",
+      "childrenByOrder": {}
+    }
+  ]
+}

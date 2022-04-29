@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_biometrics_app=self.webpackChunk_openmrs_esm_patient_biometrics_app||[]).push([[574],{3574:e=>{e.exports={}}}]);

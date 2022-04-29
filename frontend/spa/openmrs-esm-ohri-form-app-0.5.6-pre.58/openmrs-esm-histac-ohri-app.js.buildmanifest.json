@@ -1,0 +1,367 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 551379,
+      "sizes": {
+        "javascript": 551379
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "2.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "2.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "a0ac4f88b928b1e637f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 529,
+      "sizes": {
+        "javascript": 529
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "141.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "141.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "5dbe806117d9e76112a7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 13240,
+      "sizes": {
+        "javascript": 6786,
+        "runtime": 6454
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "5dc95dfce16018344555",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 56443,
+      "sizes": {
+        "javascript": 56443
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "202.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "202.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "6ccd86352b3b4ba02eec",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 379,
+      "sizes": {
+        "javascript": 379
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "310.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "310.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "5edf526be24328d5843f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2187262,
+      "sizes": {
+        "javascript": 2187262
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "359.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "359.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "3d9c01265d12d4835104",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 77834,
+      "sizes": {
+        "javascript": 77834
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "417.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "417.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "57f0498953807c4c4ca4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1490893,
+      "sizes": {
+        "javascript": 1490893
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "424.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "424.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "e602b88dab353b8ab40a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 888,
+      "sizes": {
+        "javascript": 888
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "442.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "442.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "facb60a3d7034079091a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 182,
+      "sizes": {
+        "javascript": 182
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "552.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "552.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "5ef8ca094f6de02fa2f5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 58515,
+      "sizes": {
+        "javascript": 58515
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "574.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "574.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "5a4162df48ce1a1eca8b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 4770638,
+      "sizes": {
+        "javascript": 4770638
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "578.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "578.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "b9c926a6e008adbb5a9e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 82693,
+      "sizes": {
+        "javascript": 82693
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "727.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "727.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "3780fb2fc533c91a9699",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3752,
+      "sizes": {
+        "javascript": 3752
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "912.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e6ee84cfdaef84253c43",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14743,
+      "sizes": {
+        "javascript": 14743
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "998.openmrs-esm-histac-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "998.openmrs-esm-histac-ohri-app.js.map"
+      ],
+      "hash": "de36debfe948344e9b6d",
+      "childrenByOrder": {}
+    }
+  ]
+}

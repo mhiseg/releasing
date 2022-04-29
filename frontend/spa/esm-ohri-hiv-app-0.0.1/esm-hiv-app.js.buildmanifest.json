@@ -1,0 +1,1466 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 9807,
+      "sizes": {
+        "javascript": 9807
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "65.js"
+      ],
+      "auxiliaryFiles": [
+        "65.js.map"
+      ],
+      "hash": "86b5b4b4113a838ccc1d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 268837,
+      "sizes": {
+        "javascript": 268837
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "495.js"
+      ],
+      "auxiliaryFiles": [
+        "495.js.map"
+      ],
+      "hash": "77ec0c10d8c9786f411c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 143421,
+      "sizes": {
+        "javascript": 143421
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "533.js"
+      ],
+      "auxiliaryFiles": [
+        "533.js.map"
+      ],
+      "hash": "f585d0c391e77fbba5bd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 251700,
+      "sizes": {
+        "javascript": 251700
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "708.js"
+      ],
+      "auxiliaryFiles": [
+        "708.js.map"
+      ],
+      "hash": "fe3d2886f793664f38bf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4238,
+      "sizes": {
+        "javascript": 4238
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "999.js"
+      ],
+      "auxiliaryFiles": [
+        "999.js.map"
+      ],
+      "hash": "ba246d5d450b61b5a662",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3128,
+      "sizes": {
+        "javascript": 3128
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1052.js"
+      ],
+      "auxiliaryFiles": [
+        "1052.js.map"
+      ],
+      "hash": "3c41c77e34b9c498bf55",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8556,
+      "sizes": {
+        "javascript": 8556
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1058.js"
+      ],
+      "auxiliaryFiles": [
+        "1058.js.map"
+      ],
+      "hash": "264ddcf392cba709d3df",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 19446,
+      "sizes": {
+        "javascript": 19446
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1079.js"
+      ],
+      "auxiliaryFiles": [
+        "1079.js.map"
+      ],
+      "hash": "7913e2e66e8212024852",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4670,
+      "sizes": {
+        "javascript": 4670
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1269.js"
+      ],
+      "auxiliaryFiles": [
+        "1269.js.map"
+      ],
+      "hash": "511957dcb0aacd2f291c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 26076,
+      "sizes": {
+        "javascript": 26076
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1288.js"
+      ],
+      "auxiliaryFiles": [
+        "1288.js.map"
+      ],
+      "hash": "67173ed964b035decce1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7304,
+      "sizes": {
+        "javascript": 7304
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1539.js"
+      ],
+      "auxiliaryFiles": [
+        "1539.js.map"
+      ],
+      "hash": "e0a58585600fa138be31",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 286151,
+      "sizes": {
+        "javascript": 286151
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1658.js"
+      ],
+      "auxiliaryFiles": [
+        "1658.js.map"
+      ],
+      "hash": "712e825c66ed37a79ac1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 27237,
+      "sizes": {
+        "javascript": 27237
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "1881.js"
+      ],
+      "auxiliaryFiles": [
+        "1881.js.map"
+      ],
+      "hash": "b79cbad705c24c609cc2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22044,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 210,
+        "runtime": 18425
+      },
+      "names": [
+        "esm-ohri-hiv-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "esm-hiv-app.js"
+      ],
+      "auxiliaryFiles": [
+        "esm-hiv-app.js.map"
+      ],
+      "hash": "54c9a1a673702cee1d00",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 456819,
+      "sizes": {
+        "javascript": 456819
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "2406.js"
+      ],
+      "auxiliaryFiles": [
+        "2406.js.map"
+      ],
+      "hash": "9b36bec94e158e9e1366",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 34601,
+      "sizes": {
+        "javascript": 34601
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "2659.js"
+      ],
+      "auxiliaryFiles": [
+        "2659.js.map"
+      ],
+      "hash": "5b5f8061519cba6c4a4b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "2784.js"
+      ],
+      "auxiliaryFiles": [
+        "2784.js.map"
+      ],
+      "hash": "31dc5020bc591c20024b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 88828,
+      "sizes": {
+        "javascript": 88828
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "3110.js"
+      ],
+      "auxiliaryFiles": [
+        "3110.js.map"
+      ],
+      "hash": "f6d6d2af3b7607403ca4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 262909,
+      "sizes": {
+        "javascript": 262909
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "3131.js"
+      ],
+      "auxiliaryFiles": [
+        "3131.js.map"
+      ],
+      "hash": "4f264192dd05b6263206",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4368,
+      "sizes": {
+        "javascript": 4368
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "3574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c04909d0dc01e6f051e7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 42360,
+      "sizes": {
+        "javascript": 42360
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "3583.js"
+      ],
+      "auxiliaryFiles": [
+        "3583.js.map"
+      ],
+      "hash": "00766220119bba1ac3a9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 22348,
+      "sizes": {
+        "javascript": 22348
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "3667.js"
+      ],
+      "auxiliaryFiles": [
+        "3667.js.map"
+      ],
+      "hash": "1be2f4902412c4d0cc92",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 51785,
+      "sizes": {
+        "javascript": 51785
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "3836.js"
+      ],
+      "auxiliaryFiles": [
+        "3836.js.map"
+      ],
+      "hash": "1b652befe608cc37e4d8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 317086,
+      "sizes": {
+        "javascript": 317086
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "3884.js"
+      ],
+      "auxiliaryFiles": [
+        "3884.js.map"
+      ],
+      "hash": "4e39c7e0405eb2b6f99d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 47490,
+      "sizes": {
+        "javascript": 47490
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "4133.js"
+      ],
+      "auxiliaryFiles": [
+        "4133.js.map"
+      ],
+      "hash": "3ef17fdc8f32ecb7b87e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 182,
+      "sizes": {
+        "javascript": 182
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "4412.js"
+      ],
+      "auxiliaryFiles": [
+        "4412.js.map"
+      ],
+      "hash": "243057975ab704eaee3b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 259928,
+      "sizes": {
+        "javascript": 259928
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "4460.js"
+      ],
+      "auxiliaryFiles": [
+        "4460.js.map"
+      ],
+      "hash": "808019707abb861f1989",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 53763,
+      "sizes": {
+        "javascript": 53763
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "4574.js"
+      ],
+      "auxiliaryFiles": [
+        "4574.js.map"
+      ],
+      "hash": "7571c2b42f454ab1b6b1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 9600,
+      "sizes": {
+        "javascript": 9600
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "4909.js"
+      ],
+      "auxiliaryFiles": [
+        "4909.js.map"
+      ],
+      "hash": "22c928e8bc9c8714322b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10570,
+      "sizes": {
+        "javascript": 10570
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "5026.js"
+      ],
+      "auxiliaryFiles": [
+        "5026.js.map"
+      ],
+      "hash": "0288b89312c99a1c0a1b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 109242,
+      "sizes": {
+        "javascript": 109242
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "5402.js"
+      ],
+      "auxiliaryFiles": [
+        "5402.js.map"
+      ],
+      "hash": "abc81f67600dd40ebd3f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 53790,
+      "sizes": {
+        "javascript": 53790
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "5440.js"
+      ],
+      "auxiliaryFiles": [
+        "5440.js.map"
+      ],
+      "hash": "b0973a23ac3ac46a62af",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 9785,
+      "sizes": {
+        "javascript": 9785
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "5604.js"
+      ],
+      "auxiliaryFiles": [
+        "5604.js.map"
+      ],
+      "hash": "a203d1584447d0acace0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1716719,
+      "sizes": {
+        "javascript": 1716719
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "5634.js"
+      ],
+      "auxiliaryFiles": [
+        "5634.js.map"
+      ],
+      "hash": "169d82bebc178fda0713",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "33e9795feb4decc0ef90",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 315262,
+      "sizes": {
+        "javascript": 315262
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "5943.js"
+      ],
+      "auxiliaryFiles": [
+        "5943.js.map"
+      ],
+      "hash": "dc4963a373fa91d81c3c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 685152,
+      "sizes": {
+        "javascript": 685152
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "6084.js"
+      ],
+      "auxiliaryFiles": [
+        "6084.js.map"
+      ],
+      "hash": "35f76ce60e9944650389",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14792,
+      "sizes": {
+        "javascript": 14708,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "6182.js"
+      ],
+      "auxiliaryFiles": [
+        "6182.js.map"
+      ],
+      "hash": "e9c13d6ed141db20289d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 315207,
+      "sizes": {
+        "javascript": 315207
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "6339.js"
+      ],
+      "auxiliaryFiles": [
+        "6339.js.map"
+      ],
+      "hash": "6a542b8a597d4b51f7d7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6096,
+      "sizes": {
+        "javascript": 6096
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "6510.js"
+      ],
+      "auxiliaryFiles": [
+        "6510.js.map"
+      ],
+      "hash": "c12dcf1795cb9ac6f719",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10548,
+      "sizes": {
+        "javascript": 10548
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "6545.js"
+      ],
+      "auxiliaryFiles": [
+        "6545.js.map"
+      ],
+      "hash": "b7881b0172249a8ab6a6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 544098,
+      "sizes": {
+        "javascript": 544098
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "6635.js"
+      ],
+      "auxiliaryFiles": [
+        "6635.js.map"
+      ],
+      "hash": "3ee303062b2b338f409e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 22158,
+      "sizes": {
+        "javascript": 22158
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "6720.js"
+      ],
+      "auxiliaryFiles": [
+        "6720.js.map"
+      ],
+      "hash": "5bd239a97f99963b2663",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4185,
+      "sizes": {
+        "javascript": 4185
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "7044.js"
+      ],
+      "auxiliaryFiles": [
+        "7044.js.map"
+      ],
+      "hash": "149ba76721b4a142f5b3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 256880,
+      "sizes": {
+        "javascript": 256880
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "7569.js"
+      ],
+      "auxiliaryFiles": [
+        "7569.js.map"
+      ],
+      "hash": "329ce6fdb0eb28850946",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1083325,
+      "sizes": {
+        "javascript": 1083325
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "7627.js"
+      ],
+      "auxiliaryFiles": [
+        "7627.js.map"
+      ],
+      "hash": "227286ef9af5898bba35",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 109515,
+      "sizes": {
+        "javascript": 109515
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "7881.js"
+      ],
+      "auxiliaryFiles": [
+        "7881.js.map"
+      ],
+      "hash": "2a1c9fe7714144b9fff9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 29211,
+      "sizes": {
+        "javascript": 29211
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "7929.js"
+      ],
+      "auxiliaryFiles": [
+        "7929.js.map"
+      ],
+      "hash": "4113151c9254f4f99674",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 39649,
+      "sizes": {
+        "javascript": 39649
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "7975.js"
+      ],
+      "auxiliaryFiles": [
+        "7975.js.map"
+      ],
+      "hash": "4fdc318f315fa2c8e4f1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 69699,
+      "sizes": {
+        "javascript": 69699
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "8095.js"
+      ],
+      "auxiliaryFiles": [
+        "8095.js.map"
+      ],
+      "hash": "2675f49c5b6a5b52e81e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 245436,
+      "sizes": {
+        "javascript": 245436
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "8358.js"
+      ],
+      "auxiliaryFiles": [
+        "8358.js.map"
+      ],
+      "hash": "4f76fa9ebfbce04157c7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 34481,
+      "sizes": {
+        "javascript": 34481
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "8373.js"
+      ],
+      "auxiliaryFiles": [
+        "8373.js.map"
+      ],
+      "hash": "800743212f97d8a10b2b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 256455,
+      "sizes": {
+        "javascript": 256455
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "8455.js"
+      ],
+      "auxiliaryFiles": [
+        "8455.js.map"
+      ],
+      "hash": "bd8b601458b8066acb4d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 19886,
+      "sizes": {
+        "javascript": 19886
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "8815.js"
+      ],
+      "auxiliaryFiles": [
+        "8815.js.map"
+      ],
+      "hash": "0ca5a1aeb3dac064e9d0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "11f9e42aa885fb261bc8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 55110,
+      "sizes": {
+        "javascript": 55110
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "9232.js"
+      ],
+      "auxiliaryFiles": [
+        "9232.js.map"
+      ],
+      "hash": "e768e1fa96e6040d5026",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 26793,
+      "sizes": {
+        "javascript": 26793
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "9539.js"
+      ],
+      "auxiliaryFiles": [
+        "9539.js.map"
+      ],
+      "hash": "d283efd031d0482ba92b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 57286,
+      "sizes": {
+        "javascript": 57286
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "9604.js"
+      ],
+      "auxiliaryFiles": [
+        "9604.js.map"
+      ],
+      "hash": "c482d587d4feefe89907",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 616000,
+      "sizes": {
+        "javascript": 616000
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "9635.js"
+      ],
+      "auxiliaryFiles": [
+        "9635.js.map"
+      ],
+      "hash": "915331f8c8b4743e62f9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 38955,
+      "sizes": {
+        "javascript": 38955
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "esm-ohri-hiv-app"
+      ],
+      "files": [
+        "9932.js"
+      ],
+      "auxiliaryFiles": [
+        "9932.js.map"
+      ],
+      "hash": "acd2be71e7807ad0881b",
+      "childrenByOrder": {}
+    }
+  ]
+}

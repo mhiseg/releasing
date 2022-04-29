@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[314],{314:(e,s,p)=>{p.r(s),p.d(s,{default:()=>i});var a=p(297),t=p(512);function i(){return a.default.createElement(t.ConfigurableLink,{to:"${openmrsBase}/coreapps/activeVisits.page?app=coreapps.activeVisits"},"Active Visits")}}}]);
+//# sourceMappingURL=314.openmrs-esm-home-app.js.map

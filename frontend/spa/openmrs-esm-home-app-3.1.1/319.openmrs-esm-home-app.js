@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[319],{319:e=>{e.exports=JSON.parse('{"patient":"paciente","found":"encontró","containing":"conteniendo","patientSearchText":"Búsqueda por nombre de paciente O identificador"}')}}]);

@@ -1,0 +1,2611 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 239036,
+      "sizes": {
+        "javascript": 239036
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "124.js"
+      ],
+      "auxiliaryFiles": [
+        "124.js.map"
+      ],
+      "hash": "d489f63110ee876f087f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 39893,
+      "sizes": {
+        "javascript": 39893
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "209.js"
+      ],
+      "auxiliaryFiles": [
+        "209.js.map"
+      ],
+      "hash": "d9a138e98f4a009dee99",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14332,
+      "sizes": {
+        "javascript": 14332
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "273.js"
+      ],
+      "auxiliaryFiles": [
+        "273.js.map"
+      ],
+      "hash": "366fbccf292d1de95a0c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 21433,
+      "sizes": {
+        "javascript": 21433
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "277.js"
+      ],
+      "auxiliaryFiles": [
+        "277.js.map"
+      ],
+      "hash": "9bdf9a9912862ff9acdd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 22142,
+      "sizes": {
+        "javascript": 22142
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "372.js"
+      ],
+      "auxiliaryFiles": [
+        "372.js.map"
+      ],
+      "hash": "0dde9213aac39f0abfa4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 21456,
+      "sizes": {
+        "javascript": 21456
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "448.js"
+      ],
+      "auxiliaryFiles": [
+        "448.js.map"
+      ],
+      "hash": "b9b20b37987bd89c3487",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 256453,
+      "sizes": {
+        "javascript": 256453
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "549.js"
+      ],
+      "auxiliaryFiles": [
+        "549.js.map"
+      ],
+      "hash": "6a5794d5d07abea93119",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "40c3505c23690911cc0e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 378,
+      "sizes": {
+        "javascript": 378
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "646.js"
+      ],
+      "auxiliaryFiles": [
+        "646.js.map"
+      ],
+      "hash": "6b313bd066d2ef9c9c33",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10511,
+      "sizes": {
+        "javascript": 10511
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "709.js"
+      ],
+      "auxiliaryFiles": [
+        "709.js.map"
+      ],
+      "hash": "b46c1a3b58c65d938470",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 476985,
+      "sizes": {
+        "javascript": 476985
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "878.js"
+      ],
+      "auxiliaryFiles": [
+        "878.js.map"
+      ],
+      "hash": "1b0c59781294a8598a25",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 33242,
+      "sizes": {
+        "javascript": 33242
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "892.js"
+      ],
+      "auxiliaryFiles": [
+        "892.js.map"
+      ],
+      "hash": "bd9a739ed217531ee365",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 182,
+      "sizes": {
+        "javascript": 182
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "1110.js"
+      ],
+      "auxiliaryFiles": [
+        "1110.js.map"
+      ],
+      "hash": "8b5d360d4c12fcafa107",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 54221,
+      "sizes": {
+        "javascript": 54221
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "1321.js"
+      ],
+      "auxiliaryFiles": [
+        "1321.js.map"
+      ],
+      "hash": "6b0b5a50a6e61c26a178",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 16527,
+      "sizes": {
+        "javascript": 16527
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "1574.js"
+      ],
+      "auxiliaryFiles": [
+        "1574.js.map"
+      ],
+      "hash": "1830cb2157bcaa1336bb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 17368,
+      "sizes": {
+        "javascript": 17368
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "1683.js"
+      ],
+      "auxiliaryFiles": [
+        "1683.js.map"
+      ],
+      "hash": "11746255a9b9a2a46156",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 15897,
+      "sizes": {
+        "javascript": 15897
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "1705.js"
+      ],
+      "auxiliaryFiles": [
+        "1705.js.map"
+      ],
+      "hash": "46340acabc972f778e9f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 753058,
+      "sizes": {
+        "javascript": 753058
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2061.js"
+      ],
+      "auxiliaryFiles": [
+        "017c8b939782ebe36b6601e6cb2a7ca0.js",
+        "023bf9df4fbf116f4e5abcc0149079c9.js",
+        "024358f71f8096dd8052103dced05dbc.js",
+        "0361d81b4b042c8c9ca71845f0e6c9ed.js",
+        "0403a1b3453a6fbf52be807a7446a7a6.js",
+        "042b361039b4c32d4ae2c5d10db8e9f5.js",
+        "049a24dcd51a0ae8fe983447559a9ac0.js",
+        "05af5fd88008599a38dd867f1a8d0561.js",
+        "05b5b06d27222571d0e8128fba654776.js",
+        "0689482ba0f505b3f88591331ad9b7ac.js",
+        "070adef401d2c781e547079def6be13b.js",
+        "089fb3e9fd085cae09d69228c0c7a7cc.js",
+        "091c8bd82860a331d15f93d14301c144.js",
+        "0986613604cf286f243adacf2b8c22f4.js",
+        "0ad5566a5b5a18d9ba59e3ce2ff02a68.js",
+        "0aeb765a2b5fac38c42e2efbfc77ed9f.js",
+        "0b12dd881db5247e85aef081eec1e918.js",
+        "0ba53135e2023ebdf87ee239548b79cc.js",
+        "0bda972e40ac65255fcfb70ac2a892fd.js",
+        "0cbd410899fc8a95783d43f2e4df928f.js",
+        "0d02ec3ed046eb886e7c4db218fd798d.js",
+        "0d08ba2776735572e9ac97ffeb59c6e3.js",
+        "0d6ba9b1a917c3e930c99b4ad34cfca1.js",
+        "0e29e4782fab08412e61ebd768cbc1c6.js",
+        "0ea873605539240c04717ee939a94fed.js",
+        "1013b6021f2a137c5f69ce9f62ad063d.js",
+        "104ed5cebd83b1c255959139da1fec34.js",
+        "115541e19d6d05b91dcf2be285932a49.js",
+        "11b554dd00a498c7f8871ec1936bb357.js",
+        "12495bf3e5b186514ab04f8f637283e5.js",
+        "12f228ac3f5a394af78b8f61d701ef25.js",
+        "139c971b05c61db1a9231b7181b3fff6.js",
+        "13f62e9ce6e44b21a8eceb7863df8a13.js",
+        "141c64e9a82fa98ecd31143ad57e44b3.js",
+        "1467e8f31a0441f1e24834c44c62d1f4.js",
+        "15b081c26780a754b73045fcc8875342.js",
+        "15f213b2a3f2a5181782a9b0bdf8440e.js",
+        "1613bb69f82cc6d4c849c3d4704d66a1.js",
+        "17276fa9a1f9dde025ff8677066569cd.js",
+        "1767def8ab3532986e6fb45239990534.js",
+        "178749bf661f29122eb6bb95a20f0a98.js",
+        "18db6792931499b4069a8d4ff2fb9c84.js",
+        "199ed8878b987ed2bf2978c7c25a15ac.js",
+        "1c148a813ac9f2cd197a2b7734a013bd.js",
+        "1cc2606e611a9611ae1eddb19085d60d.js",
+        "1d407892649f8b07eabf22f62b7ea912.js",
+        "1e923af613ddd2aeb51a20f9ec198c2f.js",
+        "1ee2118ed7ad7ac6ba6f95b5dd5301aa.js",
+        "1f340c71c09420767931d99be675ea21.js",
+        "2039c5a670be844faa83399aef947523.js",
+        "2061.js.map",
+        "206ed5ca06d0135af1b3496131c957a8.js",
+        "20c473a6aa984ab3e50f41ae456d761b.js",
+        "2149a2cfdad945396f694bfcce5ed6af.js",
+        "22046344cf035dbd3566aafe3da7c273.js",
+        "228cc24bb649bba0b8b05a25148b9a86.js",
+        "22bfc1893711683ac0e10fd879ca91fa.js",
+        "22d0972d378abb6b993dff7255e71648.js",
+        "22f425c3669eb3d2ea0863078e3b55c1.js",
+        "2426b4116c231575dc4c58f697976672.js",
+        "243fd6ac0805b4a63b1d6bbce0890468.js",
+        "2466777031845b33e0bf476715ab6b9a.js",
+        "251a32f59d8d3c5872502ab617374d41.js",
+        "26984b5a9ec09278c7e51cd57bea9985.js",
+        "271b9800a71542d41829f98509380357.js",
+        "27890ce76c2e7bcb5bbed2717d360bc6.js",
+        "2809d1771b51f155519af25dd7d60a30.js",
+        "28acc79f6ee4e8ef9ae8128acb4570cf.js",
+        "2928f74f65205569058a72fba8363e25.js",
+        "2933223e7bbdee4f0ad8d2b77bfd3684.js",
+        "29549ef8f659f1576cdb05804116a5e6.js",
+        "29610f5a7fa106ad8375149321f3293d.js",
+        "29e57fd76de680c28a17cc70d6460528.js",
+        "2a71eab9fa03631bb04242db6853c0fa.js",
+        "2b6522375f40a75de040afa5b9509c58.js",
+        "2bbe192c8294d914f0f4787f29b4aac4.js",
+        "2c1b8f1a26cb8df3b8685c842c8612a5.js",
+        "2c67acd1bce8dbf9eca70bff07ed4e13.js",
+        "2d833b5a3a23ad0256a26cbb8342188b.js",
+        "2dc6f826f1ef6691e939237473b864ac.js",
+        "2ddbddc35e7dd3d449af6e1e3dada163.js",
+        "2f63838641ca59de9efab73a068fb3d5.js",
+        "2fe9e6080c7bc0a901d9eaabcc76718b.js",
+        "3082182a84623094a6125248798e4260.js",
+        "31328e1e43e98e8458bd40f518bc8615.js",
+        "319d8002265c18902e7fc9b7e8041319.js",
+        "31ae15e2cfbf07aa8782c2057f625277.js",
+        "31c3bf1c911fc01dfeb33324fe753ea7.js",
+        "3276bda8ed7ab821f5ee9ac191ef57a2.js",
+        "32a1a7db6bcf21e11beda73f4e5e719e.js",
+        "32a59337fbf69de5a2b93296c9602358.js",
+        "32e8a3ba74a01443ad24e030f091b26d.js",
+        "343d09c7b86158445fa47e196fd7489e.js",
+        "3462941eb1b0401cd7dcaab487873376.js",
+        "346f82515df6a4f2eb7f15393fdcea08.js",
+        "34c2b1e98fa54e6b7ab55ab3bd9b01b6.js",
+        "353a8d678739caa01e21f0f5aee56eed.js",
+        "353b92867bd67a45b27345b84c9307bf.js",
+        "356b3827b265cac0b31298422454a08c.js",
+        "360b428559e5569bb39dea766956f837.js",
+        "362c94156393f88e76ab1332cda17f88.js",
+        "362ecc2b23eb9084cb98c9c21b4f0d12.js",
+        "36f36a0f521fac5c030654eea706447c.js",
+        "376da70a1cf3d6b6b0007c8aaba1615b.js",
+        "385e31fa118a7d779c163f81b09aead8.js",
+        "3926ed97f175b58ed308ea3f09add79f.js",
+        "3aa25c9ffc10ba9371edec7e7a261725.js",
+        "3bc672f2475e056c5e009441b03a4fe1.js",
+        "3cb0fef908c04741ee9bd6a16a344295.js",
+        "3ebba575355aa68edbbdadf3f7c24f37.js",
+        "3f57407f284aa0923ed10901a33a47fd.js",
+        "3fa8ddd32d35ea5597815d98c76a81f6.js",
+        "3fccb44349a7198e213bcdc08dc82f2a.js",
+        "4023c1d97ef5f4874129e27e4b4851e0.js",
+        "40760dd3277355b4c3b5954cd827e2c7.js",
+        "40a45530633c8c9c7c30881c53fecec1.js",
+        "417b913665c3cc24db0de282085cf4c8.js",
+        "41ea7594fd972c41e399b04a643b0ac2.js",
+        "4252ec961507b4d0743b91af38e57644.js",
+        "42bbb05f3a5dafb3a91f31ddd1424d7d.js",
+        "431b4aa6bffd193f09df36dbc74ac6a1.js",
+        "432c79c37bbab4db6a06c9cd40adb7cc.js",
+        "43ab7dd27903f4059b8c025ef9a7b432.js",
+        "44da94a773e71ce03c19ca80eb0d32ab.js",
+        "460d4f0799fef54d8ba3b9fcb2c9275a.js",
+        "46258af6fb8d7dc88f3c2b6d463e4cca.js",
+        "4688ed2450a6f9ee602dc35cf071bc82.js",
+        "46b4492b7b4e360121d1a26333e0f766.js",
+        "46d191856db3cb827c8a9d0e1da3d14c.js",
+        "47dd076a48e292cbc4d99d8fc30760c2.js",
+        "4815efff9b2cfc79a216e47ff989c8b6.js",
+        "49eb1eb9c5a6588587d28323fc01816e.js",
+        "4a27e11425cb3e800c6e110b7f436cb0.js",
+        "4a4e6e87489f945e0c0441fd3d031174.js",
+        "4ab42341633b5409c4cb9a585ae17e3f.js",
+        "4ab6f17daece718326fb720dd40be2ce.js",
+        "4b33691dd5b4dc7381df1b5ce0141ac5.js",
+        "4b6044ff6c9d0626fa3e536849b3162a.js",
+        "4b67c51bc091a39c65791ae2d37d564b.js",
+        "4be8b57a0301f53c6646263674c049fe.js",
+        "4c14d2e7fa7d8fffdca3dacc2ac155eb.js",
+        "4c45c9975de711f753a4ab1fe7f9ce33.js",
+        "4c4fdd096e7ee83f635f676e01f4d7d5.js",
+        "4c577a0e10ec044a325ad87518803fd1.js",
+        "4e1ccd90b6ad882ffabc901a53317008.js",
+        "4e6e89b1c3e26779e25acaac35307ea5.js",
+        "4f1aa6da1b5362cdde7bff0ea1887b47.js",
+        "4f3ae80a463fa989b5968a0ef4d6ade1.js",
+        "4fa52b36921a7102030ab235ca69beca.js",
+        "503da4b62f5d009953e6b8eac00436f3.js",
+        "50d08ea0ee545e80297a80e41296e193.js",
+        "50f5459fabc47094a0bd4ecf16810a2f.js",
+        "515d7101af62237c21c6145797038ed2.js",
+        "521baec93e9c2126bb0a9770963bf91a.js",
+        "52a1f5e45333697615e34c6704c67581.js",
+        "537d7e09cfbb6a4778470f460f281f96.js",
+        "539004034ad393e8a7c7360121ccded2.js",
+        "53cd3f8ba5ac88088812017fadc284f8.js",
+        "5433e801d1f3f55c8f05faa9dba43807.js",
+        "54c06751daa8e78118aee309aa39f5c2.js",
+        "55859d42dbd6f14fb53baf981a8d38f9.js",
+        "55ac5fccfa7b1dba14a8ea4aeed8000a.js",
+        "55b70852b73828664bb4856e23894d0d.js",
+        "56475f347d5dc6a833a9fb9a318f3950.js",
+        "579a19daebf0b467c1d5664def44bb2d.js",
+        "5802d3e010d96814f41649b2c5d20646.js",
+        "598e5d86c7709c4454233fa152ce9d4d.js",
+        "5a36ce97fc78e3cd1648e82288042375.js",
+        "5ad92e28c42d71130474674c6d462b9d.js",
+        "5b01755c427137836cdcf345d9b9ee56.js",
+        "5bbf86e9795f4d7f51c933ccabb56b30.js",
+        "5dfa309a0f2303b03d6f8c5f197fe623.js",
+        "5e2e9e75ca0cde722801caf587fa1b37.js",
+        "5e3b9a4c7bdd48a8fa594415b2462d37.js",
+        "5fb85fd8b98e28c7951b05aedc1cd087.js",
+        "60eb3ccaa88356a7cd3fc2285ed3e044.js",
+        "613020c07e62175b76ee645ec94a13f3.js",
+        "615775af6b662cc55fa687dcb85d1349.js",
+        "61d7246363f54d0db71eeefeee7bd5b6.js",
+        "62097568b12b3a7f3fde7e1425374508.js",
+        "6273f5b4f9ec098fa91726b1ecc794f8.js",
+        "62b6c8eafdab7904136a2064afa11b99.js",
+        "63981a833528c0fe68d9610939b34cba.js",
+        "6503246c7ad4e2db07c9be1e7fbcc47d.js",
+        "65683d13bc41011710be31002bd9b780.js",
+        "65eeb1db53ef5e6dd216fcc9e0219941.js",
+        "65f9151ae772078bea71374485b05cf3.js",
+        "662f8417fdd9b786401b85235e58e14b.js",
+        "6737496569756078f23f850fa573f4bb.js",
+        "680c708c693f70d6c2f0259bd97ddc95.js",
+        "6a1ab83e802b2eca1c1ac2fb5a809f4e.js",
+        "6a56a7cbe4decd1fcbe3cd336705c43a.js",
+        "6c86730290506465fa0b231fa274b2cc.js",
+        "6cf98b4bee468e233f047bddf574969b.js",
+        "6dc62b9a8ef9164e063692d7b661ed62.js",
+        "6eea8262eff015edbe7a370b4fadb71a.js",
+        "705a2d1864cf2b915b4e770abdffc015.js",
+        "71095bec9d802141ff428398d438ea06.js",
+        "7162689c534cc6792cdbc65af97b5d2f.js",
+        "72b18fba04129764f696b0579a8de2d2.js",
+        "7301997587384532bbf44bb48560c6c0.js",
+        "75eb9a05085d0dca3725692cd81bf6f2.js",
+        "764b561d8a2effbdd29ef31dfb5ce082.js",
+        "76c3da4aefbc5ce3f85e580b2ef51bcb.js",
+        "771d86663a5f93afe5f32720ada97c7b.js",
+        "780e3b813316f58f1ffab7aa00ca457a.js",
+        "784629076deda7d8444fd198cb199c35.js",
+        "79bbe7e399f85865ff680b3be5795758.js",
+        "7d908e456b028631ddedca76c9fcc769.js",
+        "7e4cf59aca24423eb56f2ad57972888c.js",
+        "7e86f929c4759b55468516e21960208d.js",
+        "7e9cdabb89a0fc00108d3a7690f74baf.js",
+        "7ef71776143356b83b178166ed9a7336.js",
+        "80e5e07f02b6991742140f958ad06466.js",
+        "81003b6b3dd7b425aa1e3c5bf6718612.js",
+        "81996fd30feaca1c70482b65fe95f1ca.js",
+        "81c1ec5c5d141c4019ea81e8e343cf29.js",
+        "824cc931ef39b291e85b78bf14f9f9e4.js",
+        "829da026c28cf484e9834fc76894e7d9.js",
+        "82e9de1de0073a2f44aea3ba4a8d84c6.js",
+        "83dfb42016bc995953f9d63e40a23d07.js",
+        "83e54d93f54d46737a813d78d3015de8.js",
+        "8429e05c6e32dc529491510cd140e293.js",
+        "849dcb394d2f6b523640012e70a32408.js",
+        "84fe4107b89eb7769c4f3b389549aee1.js",
+        "85a749f7a99658bebed2571cf2806840.js",
+        "863aba964f4fe1454721d590314f4b72.js",
+        "8649919dbdaf01b3a09feaae92c3f2ca.js",
+        "86c3e2e24eea846a64a3fa3c54144370.js",
+        "86ea5aac33c58ed9c37ba053fd021987.js",
+        "874708f5a3d693497ef7d28ea424ed1f.js",
+        "882076088c10c1c1685d15106a97602b.js",
+        "8852d43dfa473e40008e6140282c5533.js",
+        "895d78682551ead6de7200da6360b9f7.js",
+        "89b82196e0fcafdbfd88ecd8d3bd30c6.js",
+        "8a3069b844081bdb7563ce6b022bc9a4.js",
+        "8a4ff76c600e2b2a9ffed2f261995454.js",
+        "8a513295c552571e5e1d7f7636c4bbb8.js",
+        "8b7bf001c338f4bb77568fd1cb297e8b.js",
+        "8bc446b9c2286ee02b9033eca62e2370.js",
+        "8ce12c3d1585140e740ba38c128f08ba.js",
+        "8d821705add525429c0dc4f2507b54bc.js",
+        "8d9c058da345b5573a8a91c35822e8aa.js",
+        "8e43305988c3a9838bd2a789dbee94b3.js",
+        "8e7fe5963ae61ee80bd7988dd1846143.js",
+        "8e88baeb330bdb812ff866abba07d611.js",
+        "90d14d215d68d5a777c6c6ea525bf994.js",
+        "910615dda9426511d20abc666cd30ad7.js",
+        "91500f916c2faba819b8448642c77ca8.js",
+        "91eb0a15d59ebcb872cc08361aadc1bd.js",
+        "92038cd80395675de2c4351670a1dbce.js",
+        "92ab40cb7d192cda3a504d2d4b3f7edb.js",
+        "92acb51136f20d1430acf9dc98ff9055.js",
+        "9397244d617593f842b72fe00c62a9c2.js",
+        "9399263174d6cace1df8ac23632d6718.js",
+        "942dc61ed02869d258ccd03ff78f569f.js",
+        "94546847b4d3eae93c2a0f23bd4fb1cf.js",
+        "952f9c9025690d6def1674309165b047.js",
+        "95bc2ce7ea3703b34f5256f32e823946.js",
+        "95fd5f7b96ad80bd85281b82dce993d2.js",
+        "978ba8ebc3ebe42a124a9fe0923b9dcd.js",
+        "990b30f9c25a55a13004637089d0f57f.js",
+        "990fd8552a748934a4fd6b91812e565f.js",
+        "9a7e03d3ddbc6bbd880eb509f16d8d5f.js",
+        "9cdf97ae76042eac50dc9214e064f2b2.js",
+        "9d572b4cf99e014f23ea423a9f723219.js",
+        "9dc665bfd5f6cc40202aecd220d7e63c.js",
+        "9ddf4c5f7532408c8be8f5a2b19ddbdc.js",
+        "9e7fc638d30e39479d6f851321bb3295.js",
+        "9f34c00646beeb6df16662ddb970a681.js",
+        "9f4a75a22a23f71411f63c1486008473.js",
+        "a1200638a7f5d711d6a179e298a14760.js",
+        "a143840667faec11c6c40b9f44de40fa.js",
+        "a14d2bb5fd5da23a4b996e3761876f6d.js",
+        "a3cd045afe0420fe0e35b9e004264f17.js",
+        "a4552ac47b32ab33fe64c1ae313c9ad6.js",
+        "a48c95269cb401b8b62d01b8cbd96284.js",
+        "a49d1ee5ebe140690b7c675a08c5b1b3.js",
+        "a53286a4d37d59f969ae06676f5edf7e.js",
+        "a537beaf6a459becd6067fc013b9156f.js",
+        "a58d791389295783f04d90573cd51463.js",
+        "a5ed3ad1c7cb75a44d2855b9f3b526ce.js",
+        "a711f19461f3e5c0dcfa4bd5b1767b71.js",
+        "a742dae4f3b0fe3c529c3e3980277dfb.js",
+        "a74afd2fc3edd1cd31ec2a2a1f596ff2.js",
+        "a8344e69f079660393d54191062d179e.js",
+        "a9501f4ae69aa896a6089f9c63a735f6.js",
+        "a9670633281e30b3db4fd8c4fd789c0e.js",
+        "a9881ab3885b4a32484573e0fdc13343.js",
+        "aa3c4aee39a099f5d01b9c6048f452d8.js",
+        "aabc383909561fa0ebd2b54bd3339ecb.js",
+        "ab0e8575862a11c18929e82d882d3282.js",
+        "ac0afd910606feb4e659726b6a1b6620.js",
+        "aca628f9a1193e2e4818b94ce78e4e9f.js",
+        "acc948fb7a99e75a6869c526f2eb8eac.js",
+        "ad303c27e77f307d68187b75d22cb028.js",
+        "ada4b81a1f74f0ba008a59ba8adf28e8.js",
+        "ae1f36c02f110c47151be5e0fd918a63.js",
+        "aecf081a46f719ed8739c80b4183a285.js",
+        "af3fb56b7d6de0634f185b37ecceaca4.js",
+        "afc1d6394d70dd73c4856a34c3011be0.js",
+        "b11393e1bb7a58f7cc36c72a1afdfff9.js",
+        "b16d45978c739ce37f30db796cb1a9fb.js",
+        "b38c9ab20cad2fcb1f42bdedf435e987.js",
+        "b3979deadc21f458c04269ec2ad25f7e.js",
+        "b4042da0b78f759bd9c867abc5008ec9.js",
+        "b64a902ad19052be2ebf1a92e1826912.js",
+        "b6b3ca6d609c4e6c6ab069f0b49bbe5a.js",
+        "b6b88ef6e7eb7abe2dc988553d17fd48.js",
+        "b6f981be33565599d4380c94fb4b9eaa.js",
+        "b6fd2509eed0106bc2d8817a4c6e48ff.js",
+        "b710199e98ce0a0798db77122d19abae.js",
+        "b72c881f90234b85ff763fbab01c392b.js",
+        "b7e8da2e421a778fd96bd1844c385a8d.js",
+        "b816971a15aaab47f0ef0e9bd3a28a08.js",
+        "b86162fb18eec5b65a106d6ea9ee7b10.js",
+        "b865b79e38083e49e7948ca445c5115f.js",
+        "b883330aab6f353506c3bc90820a5817.js",
+        "b8c455947998d6d495230c7e0fd06db7.js",
+        "b914ca761750d3a55e53a1286c97bc2e.js",
+        "b990fe901111d9c9a8754f1f1e032cf0.js",
+        "bad0124006e39305db48b3659c0f2090.js",
+        "bb1918bfc2c4a0cd323f8a7669978705.js",
+        "bb243e368e860739e79f763423505ee8.js",
+        "bd5aeebc2afee18c2ce9a9dbf2bb1350.js",
+        "bd8aca24a88d69f82054362e3d0f6bae.js",
+        "bec7a813425f3e29db894de1748f0cbc.js",
+        "c042a4d570d88cfeb84fed4fcc1de893.js",
+        "c0e26c3efdb227f50a87c131c564a8a3.js",
+        "c0e87e4fbc26a8c7b541f93412a1d105.js",
+        "c0eae9999f7053c96e3e917a5eb13296.js",
+        "c166542505af1019844490487d038247.js",
+        "c25442274b579153a13b21dc1d90250c.js",
+        "c32d6ca09a8f423e6657081dd2759f89.js",
+        "c428dae0d0ce7c3e6cead8a58ab45578.js",
+        "c860bcdee7b14028b690b6399f37ba98.js",
+        "c8ac3f7988f902853ca125c6f9f5e800.js",
+        "cc3e7517d53f2e8c3fe91014b5daba23.js",
+        "ccfdb9d44461fb54f835656d37e14264.js",
+        "cebb9177c347e882dd3cc52cbb3f2015.js",
+        "cfa17dfb5f1e239a579b1af6be34c5e6.js",
+        "d0e25e1c885829136d05feb62563fe84.js",
+        "d14d49d4683642c11bd71a76ca26621a.js",
+        "d1708a2438cfbebf023060ba778c7023.js",
+        "d29560324cbff7fe8bea073d20821268.js",
+        "d2bab5b103968a35cdeb3a5cbea98d9e.js",
+        "d433d67e39d6ea752422680319ac2c61.js",
+        "d45c31058b6333d20a7aa4aeb06f8cda.js",
+        "d48484f9aa3edba30409ae4c7e9f2287.js",
+        "d4a627e64c2956fe05a0a9e94067cdee.js",
+        "d517fb05d9b1d220e927110d1bb86e41.js",
+        "d55b7f131c6306232081d08ba12fa9a2.js",
+        "d6cb66374994df62ee23c18441240b4c.js",
+        "d6d44f76d89a405be39b0bc78e5805fb.js",
+        "d75793e1f3ac2b9b85ddd2982922db4f.js",
+        "d8a84e57436817a85f6c19a4c1498feb.js",
+        "d8de6a5ac549b78705f77275a0f84c30.js",
+        "d9dae6781206c5683aece08f5b6a4e0d.js",
+        "daa680d2f20d7fd0f5154548a077bf89.js",
+        "dad921d514a6f156ff5917e651440bc3.js",
+        "dbb65cfb9b32d04198ebce1738d7af73.js",
+        "dc37cf7ec4f02b0f50bf287d596f2d99.js",
+        "dc42ab4c5aa7e7a286f499e68c1954a0.js",
+        "dd2cbbb53441e56c4dd3317d76e5c31d.js",
+        "de4e18a9d1c14e96a29dd367bbdd1f1b.js",
+        "de5ca8970013b4a5a020b3e92d010b59.js",
+        "df131bbbf77b16f53ed02ef283e5faac.js",
+        "df29f5102d45ee417d2f2d1b0965039f.js",
+        "dfd204e55dbfd3bbb562f8ae19bec7c8.js",
+        "dfe0b511fef06f37f9e0f24ec1bb2a38.js",
+        "e0d542d6702e8c9679bb17405d1843c1.js",
+        "e153f9438bb1ba6752adb93ac1722172.js",
+        "e311d297486b2d81a17681b8ce404af2.js",
+        "e4356c92615f61467bd977adb998f529.js",
+        "e4516d7baf8ac980c9225de9e8a5a953.js",
+        "e47a7f808f80af8d51e8214a372b1159.js",
+        "e499d8447e637d43fe355ac275d7fdbc.js",
+        "e67eb017c03bbc1d72cfec0e255c2dac.js",
+        "e6aa3b0c59facb10cd5efdfe0a876b5f.js",
+        "e812525466d7499d836b4459a73ef798.js",
+        "e82ba21130fcab3ff000d57ca9412e02.js",
+        "e8c78fbe2c89015074ed850f3d4fa448.js",
+        "e93704792a76e79c5dad903df7485074.js",
+        "e9d3143fabfaf14e1c97645f0c1bf21b.js",
+        "ea2cb9e3200e26d396596dd3812d8c20.js",
+        "ea3e6fc53ef40db62d93a4ea01ee6dc7.js",
+        "ea8286a71599f350aa1e09e6cc734dae.js",
+        "eaaef4e79646fc640dfc47f992c7b9a4.js",
+        "eb100b941aa978b17bd6ae15deeb7e8c.js",
+        "eb7054370831cc646e305f0287d8fbae.js",
+        "ebfadc6232075fd782e16b0a827eb517.js",
+        "ec1a4c68f5e04f50405a5c6f27937e0b.js",
+        "ec8af7f6c31d36d3092985a1a4a3bc74.js",
+        "ec9074409a3c4b1d3499832ac8d7fe6d.js",
+        "ed287999a97fe16331b2d3d29fc7cc27.js",
+        "edab9f7e4b6b3b591655d35e35d584cf.js",
+        "ee1675f356ef3b8d343d2b84ff801150.js",
+        "ee5f0c07732edede27f23515aca7edc4.js",
+        "ee7ddb24e0058be1b8528b9b2af543e2.js",
+        "ef014c7e424d341fa23080d77ba16212.js",
+        "ef3508807cc0f907fe59c561b58e2f54.js",
+        "f0d178a0029ce3584057b3dc23b67b9b.js",
+        "f15ac0b95b39f998208b7006dfa97fa1.js",
+        "f26f81042bc60c691b1905184f413a71.js",
+        "f414449cb1fca457f18aa7f71abd6f17.js",
+        "f41a075fc0cfa16a309f77bbc63546d8.js",
+        "f4e63ffa0ce064444bf6aa94c0b22c5d.js",
+        "f50e778d53d6bac465157b03626197f5.js",
+        "f65e3fb38b7ed7fb88929d165ded379b.js",
+        "f6b661e7ab963fc10f4a53a430969c7f.js",
+        "f832f8aa8eae8cdc10e636699a292176.js",
+        "f888c44cbba322c7b8268013bcb785b6.js",
+        "fb673b24953ad524a5b7e1a3348ca468.js",
+        "fbe44ec2f6cb5a94765560618278cf24.js",
+        "fc47afbc1973c25ac5c07d588d993d6b.js",
+        "fc4c2cdc6f0765bc024e990cd4926c21.js",
+        "fceb565f729ed95a65ee6ef3e8978f0e.js",
+        "fd05bb0ada6f7a3221e555d9ea0c8eb7.js",
+        "fd9e60ac3029b36707fb5a3e23d69612.js",
+        "fde3ff8d2ed4436ccdc1ff7d2d5be22b.js",
+        "fe149ba6059243d5d672c97c4aee3fa8.js",
+        "fe47b5e0728edf25afd918e815fd70b1.js",
+        "ff16e13e3c743c99b7cd17ca4ea30292.js",
+        "ff6e85bb753b94d4add40e79a70c2875.js",
+        "ffb285847c77432bb38e9fbf9789d323.js",
+        "ffe20ed2a99af7be17594c7a5531cd3a.js"
+      ],
+      "hash": "4da264b0b1acf4389eb5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 26350,
+      "sizes": {
+        "javascript": 26350
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2075.js"
+      ],
+      "auxiliaryFiles": [
+        "2075.js.map"
+      ],
+      "hash": "43a13392443967b44613",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 250507,
+      "sizes": {
+        "javascript": 250507
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2132.js"
+      ],
+      "auxiliaryFiles": [
+        "2132.js.map"
+      ],
+      "hash": "477ed2fb99e028d07397",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 602880,
+      "sizes": {
+        "javascript": 602880
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2292.js"
+      ],
+      "auxiliaryFiles": [
+        "2292.js.map"
+      ],
+      "hash": "f92c4017c82fd44eab55",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3001069,
+      "sizes": {
+        "javascript": 3001069
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2321.js"
+      ],
+      "auxiliaryFiles": [
+        "2321.js.map"
+      ],
+      "hash": "6d6b31d991dab3ee815b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 51761,
+      "sizes": {
+        "javascript": 51761
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2405.js"
+      ],
+      "auxiliaryFiles": [
+        "2405.js.map"
+      ],
+      "hash": "fc082733a2ab99798100",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 84130,
+      "sizes": {
+        "javascript": 84130
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2429.js"
+      ],
+      "auxiliaryFiles": [
+        "2429.js.map"
+      ],
+      "hash": "fc55ea33e801f3c17529",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7097,
+      "sizes": {
+        "javascript": 7097
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "2918.js"
+      ],
+      "auxiliaryFiles": [
+        "2918.js.map"
+      ],
+      "hash": "9c03fe08555881a5488d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 52551,
+      "sizes": {
+        "javascript": 52551
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3014.js"
+      ],
+      "auxiliaryFiles": [
+        "3014.js.map"
+      ],
+      "hash": "619c34cbcdbaa697af9f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 52420,
+      "sizes": {
+        "javascript": 52420
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3022.js"
+      ],
+      "auxiliaryFiles": [
+        "3022.js.map"
+      ],
+      "hash": "23d1056354e3f1a74f2b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 27675,
+      "sizes": {
+        "javascript": 27675
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3118.js"
+      ],
+      "auxiliaryFiles": [
+        "3118.js.map"
+      ],
+      "hash": "7c2ce91ce79356b0ff3f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4300,
+      "sizes": {
+        "javascript": 4300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3197.js"
+      ],
+      "auxiliaryFiles": [
+        "3197.js.map"
+      ],
+      "hash": "e0b44209cbccbaf43785",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 24868,
+      "sizes": {
+        "javascript": 24868
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3228.js"
+      ],
+      "auxiliaryFiles": [
+        "3228.js.map"
+      ],
+      "hash": "f717c89516a4c969ce52",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 98224,
+      "sizes": {
+        "javascript": 98224
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3525.js"
+      ],
+      "auxiliaryFiles": [
+        "3525.js.map"
+      ],
+      "hash": "c10f65eb4850bfddf95c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 23117,
+      "sizes": {
+        "javascript": 23117
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3533.js"
+      ],
+      "auxiliaryFiles": [
+        "3533.js.map"
+      ],
+      "hash": "bbc24c3631c2de29d56e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 105652,
+      "sizes": {
+        "javascript": 105652
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3538.js"
+      ],
+      "auxiliaryFiles": [
+        "3538.js.map"
+      ],
+      "hash": "4a181b8143a5286de455",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4368,
+      "sizes": {
+        "javascript": 4368
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7713c546552ff147cc34",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 572487,
+      "sizes": {
+        "javascript": 572487
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3624.js"
+      ],
+      "auxiliaryFiles": [
+        "3624.js.map"
+      ],
+      "hash": "cd368c95f15b179c0333",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 41394,
+      "sizes": {
+        "javascript": 41394
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3682.js"
+      ],
+      "auxiliaryFiles": [
+        "3682.js.map"
+      ],
+      "hash": "fa0f88ed167f9d4bdc5a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 40685,
+      "sizes": {
+        "javascript": 40685
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3788.js"
+      ],
+      "auxiliaryFiles": [
+        "3788.js.map"
+      ],
+      "hash": "a17507ce40109b4fcec1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 51059,
+      "sizes": {
+        "javascript": 51059
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3837.js"
+      ],
+      "auxiliaryFiles": [
+        "3837.js.map"
+      ],
+      "hash": "57eef6a165baef06c522",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8605,
+      "sizes": {
+        "javascript": 8605
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3841.js"
+      ],
+      "auxiliaryFiles": [
+        "3841.js.map"
+      ],
+      "hash": "1daa7e052c69c04c97ec",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3190,
+      "sizes": {
+        "javascript": 3190
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3915.js"
+      ],
+      "auxiliaryFiles": [
+        "3915.js.map"
+      ],
+      "hash": "c8e5cf09bdee48adc5f1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 480757,
+      "sizes": {
+        "javascript": 480757
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "3974.js"
+      ],
+      "auxiliaryFiles": [
+        "3974.js.map"
+      ],
+      "hash": "6326dea03f4648f3575f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "fc856fab653e87738e4b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1041758,
+      "sizes": {
+        "javascript": 1041758
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "4057.js"
+      ],
+      "auxiliaryFiles": [
+        "4057.js.map"
+      ],
+      "hash": "5f280377f554e11042fe",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 36211,
+      "sizes": {
+        "javascript": 36211
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "4101.js"
+      ],
+      "auxiliaryFiles": [
+        "4101.js.map"
+      ],
+      "hash": "958cb844b78d621aeb38",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 27033,
+      "sizes": {
+        "javascript": 27033
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "4471.js"
+      ],
+      "auxiliaryFiles": [
+        "4471.js.map"
+      ],
+      "hash": "dd8051035d5554b08140",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 245434,
+      "sizes": {
+        "javascript": 245434
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "4477.js"
+      ],
+      "auxiliaryFiles": [
+        "4477.js.map"
+      ],
+      "hash": "94bffdda7d8bcb4e2b35",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 394571,
+      "sizes": {
+        "javascript": 394571
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "4718.js"
+      ],
+      "auxiliaryFiles": [
+        "4718.js.map"
+      ],
+      "hash": "44a1a7330d051622e65d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 830369,
+      "sizes": {
+        "javascript": 830369
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "4866.js"
+      ],
+      "auxiliaryFiles": [
+        "4866.js.map"
+      ],
+      "hash": "23c9d44189217a3f2310",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11177,
+      "sizes": {
+        "javascript": 11177
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "4892.js"
+      ],
+      "auxiliaryFiles": [
+        "4892.js.map"
+      ],
+      "hash": "90752e6be5554afd124b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 23559,
+      "sizes": {
+        "javascript": 23559
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5059.js"
+      ],
+      "auxiliaryFiles": [
+        "5059.js.map"
+      ],
+      "hash": "7bb3cd10cd313acd49b0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 370095,
+      "sizes": {
+        "javascript": 370095
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5237.js"
+      ],
+      "auxiliaryFiles": [
+        "5237.js.map"
+      ],
+      "hash": "0ed83ae2925dfdf321a0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "ed811c8ee768648d4c31",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 23414,
+      "sizes": {
+        "javascript": 3209,
+        "share-init": 294,
+        "runtime": 19911
+      },
+      "names": [
+        "openmrs-ohri-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "openmrs-ohri-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-ohri-app.js.map"
+      ],
+      "hash": "1fc4a7595bd66ff69407",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11267,
+      "sizes": {
+        "javascript": 11267
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5466.js"
+      ],
+      "auxiliaryFiles": [
+        "5466.js.map"
+      ],
+      "hash": "5864081138bbf5197f86",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 29010,
+      "sizes": {
+        "javascript": 29010
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5500.js"
+      ],
+      "auxiliaryFiles": [
+        "5500.js.map"
+      ],
+      "hash": "3afaa4f3c0ea4fe48e48",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7246,
+      "sizes": {
+        "javascript": 7246
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5506.js"
+      ],
+      "auxiliaryFiles": [
+        "5506.js.map"
+      ],
+      "hash": "7d3c7aa46a3f4246d6b1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 54114,
+      "sizes": {
+        "javascript": 54114
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5778.js"
+      ],
+      "auxiliaryFiles": [
+        "5778.js.map"
+      ],
+      "hash": "71fc93b49fef412d36ad",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 73265,
+      "sizes": {
+        "javascript": 73265
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5811.js"
+      ],
+      "auxiliaryFiles": [
+        "5811.js.map"
+      ],
+      "hash": "1bdb3cef330307111c15",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 70740,
+      "sizes": {
+        "javascript": 70740
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5880.js"
+      ],
+      "auxiliaryFiles": [
+        "5880.js.map"
+      ],
+      "hash": "f33c434d4509ab3f7cc9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 24994,
+      "sizes": {
+        "javascript": 24994
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "5893.js"
+      ],
+      "auxiliaryFiles": [
+        "5893.js.map"
+      ],
+      "hash": "31c553354363ebc074cf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 283381,
+      "sizes": {
+        "javascript": 283381
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6056.js"
+      ],
+      "auxiliaryFiles": [
+        "6056.js.map"
+      ],
+      "hash": "56353698ecb80f2e40e0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 262907,
+      "sizes": {
+        "javascript": 262907
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6225.js"
+      ],
+      "auxiliaryFiles": [
+        "6225.js.map"
+      ],
+      "hash": "62e086282397a568fc58",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4247,
+      "sizes": {
+        "javascript": 4247
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6384.js"
+      ],
+      "auxiliaryFiles": [
+        "6384.js.map"
+      ],
+      "hash": "d7e86e12c9807ce3b9bc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 216910,
+      "sizes": {
+        "javascript": 216910
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6386.js"
+      ],
+      "auxiliaryFiles": [
+        "6386.js.map"
+      ],
+      "hash": "5e7b2fa959b8585a7cf3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 24998,
+      "sizes": {
+        "javascript": 24998
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6415.js"
+      ],
+      "auxiliaryFiles": [
+        "6415.js.map"
+      ],
+      "hash": "bfb04bd49457a71bac87",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 144251,
+      "sizes": {
+        "javascript": 144251
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6428.js"
+      ],
+      "auxiliaryFiles": [
+        "6428.js.map"
+      ],
+      "hash": "5a519ccc8ea0c0e5860f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3208,
+      "sizes": {
+        "javascript": 3208
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6555.js"
+      ],
+      "auxiliaryFiles": [
+        "6555.js.map"
+      ],
+      "hash": "f8dcb8a3b06e0493ad0a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2402,
+      "sizes": {
+        "javascript": 2402
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6729.js"
+      ],
+      "auxiliaryFiles": [
+        "6729.js.map"
+      ],
+      "hash": "2704357aae097423b641",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11183,
+      "sizes": {
+        "javascript": 11183
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6754.js"
+      ],
+      "auxiliaryFiles": [
+        "6754.js.map"
+      ],
+      "hash": "d7e525d2cc1864f14ac6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8667,
+      "sizes": {
+        "javascript": 8667
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6845.js"
+      ],
+      "auxiliaryFiles": [
+        "6845.js.map"
+      ],
+      "hash": "01cc03c8f2f85ec7e850",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 251465,
+      "sizes": {
+        "javascript": 251465
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "6921.js"
+      ],
+      "auxiliaryFiles": [
+        "6921.js.map"
+      ],
+      "hash": "086689d39a6fc6b4629c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 943099,
+      "sizes": {
+        "javascript": 943099
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "7100.js"
+      ],
+      "auxiliaryFiles": [
+        "7100.js.map"
+      ],
+      "hash": "88a1e28957d6cc56abca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 21142,
+      "sizes": {
+        "javascript": 21142
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "7283.js"
+      ],
+      "auxiliaryFiles": [
+        "7283.js.map"
+      ],
+      "hash": "93eb933f798066e4c7f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 58944,
+      "sizes": {
+        "javascript": 58944
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "7549.js"
+      ],
+      "auxiliaryFiles": [
+        "7549.js.map"
+      ],
+      "hash": "901d8f59a4e9a98a68bc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 811043,
+      "sizes": {
+        "javascript": 811043
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "7603.js"
+      ],
+      "auxiliaryFiles": [
+        "7603.js.map"
+      ],
+      "hash": "59cc9bee5788e34e69f1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7996,
+      "sizes": {
+        "javascript": 7996
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "7648.js"
+      ],
+      "auxiliaryFiles": [
+        "7648.js.map"
+      ],
+      "hash": "2db26b72161ca8b18de3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 90318,
+      "sizes": {
+        "javascript": 90318
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "7789.js"
+      ],
+      "auxiliaryFiles": [
+        "7789.js.map"
+      ],
+      "hash": "a6f3734604e7a908c9da",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "acf70a795c8b6eb609c2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3146,
+      "sizes": {
+        "javascript": 3146
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "8432.js"
+      ],
+      "auxiliaryFiles": [
+        "8432.js.map"
+      ],
+      "hash": "1072198b8a639b1853ab",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 24998,
+      "sizes": {
+        "javascript": 24998
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "8648.js"
+      ],
+      "auxiliaryFiles": [
+        "8648.js.map"
+      ],
+      "hash": "d969d789c12ff056fd2c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 87393,
+      "sizes": {
+        "javascript": 87393
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "8673.js"
+      ],
+      "auxiliaryFiles": [
+        "8673.js.map"
+      ],
+      "hash": "6fd2cba01a57375d3974",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 291234,
+      "sizes": {
+        "javascript": 291234
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "8684.js"
+      ],
+      "auxiliaryFiles": [
+        "8684.js.map"
+      ],
+      "hash": "b8a40fde919fe8f4049e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 51759,
+      "sizes": {
+        "javascript": 51759
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "8877.js"
+      ],
+      "auxiliaryFiles": [
+        "8877.js.map"
+      ],
+      "hash": "e89cddd87ab9f37b2620",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 17338,
+      "sizes": {
+        "javascript": 17338
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "8898.js"
+      ],
+      "auxiliaryFiles": [
+        "8898.js.map"
+      ],
+      "hash": "8b24cab98f8e25fe53be",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10774,
+      "sizes": {
+        "javascript": 10774
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "9027.js"
+      ],
+      "auxiliaryFiles": [
+        "9027.js.map"
+      ],
+      "hash": "637bd2353f9ef4740a25",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 439786,
+      "sizes": {
+        "javascript": 439786
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "9487.js"
+      ],
+      "auxiliaryFiles": [
+        "9487.js.map"
+      ],
+      "hash": "d7fb92db4029042d0e29",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6158,
+      "sizes": {
+        "javascript": 6158
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "9618.js"
+      ],
+      "auxiliaryFiles": [
+        "9618.js.map"
+      ],
+      "hash": "c9fe9fefacb170cad26c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 249927,
+      "sizes": {
+        "javascript": 249927
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "9644.js"
+      ],
+      "auxiliaryFiles": [
+        "9644.js.map"
+      ],
+      "hash": "746dc0413b30e8624e32",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11504,
+      "sizes": {
+        "javascript": 11504
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [
+        "9680.js"
+      ],
+      "auxiliaryFiles": [
+        "9680.js.map"
+      ],
+      "hash": "6dddbf48cff38b36bad1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "openmrs-ohri-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "88871702feba7228ba4f",
+      "childrenByOrder": {}
+    }
+  ]
+}

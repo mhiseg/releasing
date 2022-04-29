@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[898],{898:(e,a,t)=>{t.r(a),t.d(a,{default:()=>u});var n=t(297),r=t(512);function u(){return n.default.createElement(r.ConfigurableLink,{to:"${openmrsBase}/adminui/metadata/configureMetadata.page"},"Configure Metadata")}}}]);
+//# sourceMappingURL=898.openmrs-esm-home-app.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunkesm_ohri_hts_form_app=self.webpackChunkesm_ohri_hts_form_app||[]).push([[141],{8141:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>s});var n=a(9297),r=a(9574);const s=({state:e,closeWorkspace:t,encounterUuid:a})=>{const s=(0,n.useCallback)((()=>{e.updateParent&&e.updateParent(),t()}),[]);return n.default.createElement(r.Z,{formJson:e.formJson,onCancel:t,onSubmit:s,encounterUuid:a})}}}]);
+//# sourceMappingURL=141.openmrs-esm-ohri-app.js.map

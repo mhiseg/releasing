@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_chart_app=self.webpackChunk_openmrs_esm_patient_chart_app||[]).push([[394],{8394:(e,t,a)=>{a.d(t,{S_:()=>p,sb:()=>s,Yh:()=>n,JB:()=>r,e1:()=>c,uc:()=>i,Fd:()=>h});const p=window.getOpenmrsSpaBase(),s="/patient/:patientUuid/chart",n=`${s}/:view?/:subview?`,r=`${window.spaBase}${s}`,c="@openmrs/esm-patient-chart-app",i="patient-chart-workspace-slot",h="patient-chart-workspace-header-slot"}}]);
+//# sourceMappingURL=394.js.map

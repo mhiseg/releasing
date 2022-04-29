@@ -1,0 +1,2 @@
+(self.webpackChunkopenmrs_esm_histac_ohri_app=self.webpackChunkopenmrs_esm_histac_ohri_app||[]).push([[552],{7552:(e,s,t)=>{"use strict";t.r(s),t.d(s,{default:()=>r});var a=t(9297);const r=function(){return a.createElement("div",null,"This is the hts summary page")}}}]);
+//# sourceMappingURL=552.openmrs-esm-histac-ohri-app.js.map

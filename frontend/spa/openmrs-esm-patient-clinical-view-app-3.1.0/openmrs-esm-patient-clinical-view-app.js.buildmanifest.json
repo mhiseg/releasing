@@ -1,0 +1,562 @@
+{
+  "chunks": [
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "98011a27786be1dffc59",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 352101,
+      "sizes": {
+        "javascript": 352101
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "87.js"
+      ],
+      "auxiliaryFiles": [
+        "87.js.map"
+      ],
+      "hash": "ee1aeca903339ef5d01d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 240803,
+      "sizes": {
+        "javascript": 240803
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "171.js"
+      ],
+      "auxiliaryFiles": [
+        "171.js.map"
+      ],
+      "hash": "9523acff7c913bd5dd80",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 41617,
+      "sizes": {
+        "javascript": 41617
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "194.js"
+      ],
+      "auxiliaryFiles": [
+        "194.js.map"
+      ],
+      "hash": "bbf6b732acb96bf3a73c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 163792,
+      "sizes": {
+        "javascript": 163792
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "206.js"
+      ],
+      "auxiliaryFiles": [
+        "206.js.map"
+      ],
+      "hash": "554ce9aac16c9106babd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 24821,
+      "sizes": {
+        "javascript": 24821
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "279.js"
+      ],
+      "auxiliaryFiles": [
+        "279.js.map"
+      ],
+      "hash": "24c62c8671db79964b37",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 316642,
+      "sizes": {
+        "javascript": 316642
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "339.js"
+      ],
+      "auxiliaryFiles": [
+        "339.js.map"
+      ],
+      "hash": "f5432b0c770054fbfba9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 245436,
+      "sizes": {
+        "javascript": 245436
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "358.js"
+      ],
+      "auxiliaryFiles": [
+        "358.js.map"
+      ],
+      "hash": "0d3580bef08d51a4d1fb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 34481,
+      "sizes": {
+        "javascript": 34481
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "373.js"
+      ],
+      "auxiliaryFiles": [
+        "373.js.map"
+      ],
+      "hash": "b547a4dae3554157da55",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 109242,
+      "sizes": {
+        "javascript": 109242
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "402.js"
+      ],
+      "auxiliaryFiles": [
+        "402.js.map"
+      ],
+      "hash": "11cce095c3765b9a9eb8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "62ff82b69df2995795d1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 42036,
+      "sizes": {
+        "javascript": 42036
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "404.js"
+      ],
+      "auxiliaryFiles": [
+        "404.js.map"
+      ],
+      "hash": "d4db2dc9288296265081",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2494,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2452
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "409.js"
+      ],
+      "auxiliaryFiles": [
+        "409.js.map"
+      ],
+      "hash": "9b406bd6c283604ec84d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 478546,
+      "sizes": {
+        "javascript": 478504,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "482.js"
+      ],
+      "auxiliaryFiles": [
+        "482.js.map"
+      ],
+      "hash": "096679e915ccde9229bc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 70843,
+      "sizes": {
+        "javascript": 70843
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "501.js"
+      ],
+      "auxiliaryFiles": [
+        "501.js.map"
+      ],
+      "hash": "3a1871205c83b2be8be8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 323,
+      "sizes": {
+        "javascript": 323
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "558ac303081cd89f78b2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 616292,
+      "sizes": {
+        "javascript": 616292
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "612.js"
+      ],
+      "auxiliaryFiles": [
+        "612.js.map"
+      ],
+      "hash": "6b1ff9a3bf9be814eb7f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 615977,
+      "sizes": {
+        "javascript": 615977
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "635.js"
+      ],
+      "auxiliaryFiles": [
+        "635.js.map"
+      ],
+      "hash": "5cd08d6a5ca5ee950fc4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 23108,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 294,
+        "runtime": 19405
+      },
+      "names": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-clinical-view-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-patient-clinical-view-app.js.map"
+      ],
+      "hash": "36f6ea0b3ba3aa4a97f9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "45f5382446104bee43da",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "77041d5defbff5e0b8cd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 87801,
+      "sizes": {
+        "javascript": 87801
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "923.js"
+      ],
+      "auxiliaryFiles": [
+        "923.js.map"
+      ],
+      "hash": "66028c67ff9ed97d5ab7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 38955,
+      "sizes": {
+        "javascript": 38955
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-clinical-view-app"
+      ],
+      "files": [
+        "932.js"
+      ],
+      "auxiliaryFiles": [
+        "932.js.map"
+      ],
+      "hash": "20e79130d61ce4a1f77b",
+      "childrenByOrder": {}
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[410],{410:(e,p,r)=>{r.r(p),r.d(p,{default:()=>n});var s=r(297),a=r(512);function n(){return s.default.createElement(a.ConfigurableLink,{to:"${openmrsBase}/reportingui/reportsapp/home.page"},"Reports")}}}]);
+//# sourceMappingURL=410.openmrs-esm-home-app.js.map

@@ -1,0 +1,78 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 23461,
+      "sizes": {
+        "javascript": 23461
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "138.pihesm-legacyui-navbar-app.js"
+      ],
+      "auxiliaryFiles": [
+        "0420ca5163e32b994f70d22358e3eb2d.gif",
+        "138.pihesm-legacyui-navbar-app.js.map",
+        "8c0f2d8f117d77c13d58f7b32b9515e2.gif",
+        "a92bbdbc820be3142df883bf4259759a.gif",
+        "ce2a0d8e36ea2e3e0a993303e958c598.png"
+      ],
+      "hash": "2e4b21f119a897205bf4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 12995,
+      "sizes": {
+        "javascript": 6810,
+        "runtime": 6185
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "pihesm-legacyui-navbar-app.js"
+      ],
+      "auxiliaryFiles": [
+        "pihesm-legacyui-navbar-app.js.map"
+      ],
+      "hash": "0162b318385c7fb299f3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "574.pihesm-legacyui-navbar-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c7eb478d80c38a3e10ef",
+      "childrenByOrder": {}
+    }
+  ]
+}

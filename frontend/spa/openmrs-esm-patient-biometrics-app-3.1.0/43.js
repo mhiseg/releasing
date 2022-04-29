@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_biometrics_app=self.webpackChunk_openmrs_esm_patient_biometrics_app||[]).push([[43],{2043:(e,t,a)=>{a.r(t),a.d(t,{default:()=>o});var s=a(9902),i=a.n(s),r=a(4924),n=a(9963);const o=e=>{let{patientUuid:t,showAddBiometrics:a,basePath:s}=e;const{t:o}=(0,r.useTranslation)(),p=window.spaBase+s+"/summary",m=o("goToSummary","Go to Summary");return i().createElement(n.Z,{patientUuid:t,showAddBiometrics:a,pageSize:10,urlLabel:m,pageUrl:p})}}}]);
+//# sourceMappingURL=43.js.map

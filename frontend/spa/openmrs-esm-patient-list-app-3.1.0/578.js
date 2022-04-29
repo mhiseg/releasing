@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_list_app=self.webpackChunk_openmrs_esm_patient_list_app||[]).push([[578],{7578:(e,s,t)=>{t.r(s),t.d(s,{default:()=>_});var a=t(9902),p=t.n(a),n=t(2295);const _=()=>p().createElement(n.Z,{isInteractive:!1,showHeader:!0})}}]);
+//# sourceMappingURL=578.js.map

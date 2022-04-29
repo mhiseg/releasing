@@ -1,0 +1,221 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 315205,
+      "sizes": {
+        "javascript": 315205
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "16.js"
+      ],
+      "auxiliaryFiles": [
+        "16.js.map"
+      ],
+      "hash": "d8ffc2c33020ddf61ef4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "294.js"
+      ],
+      "auxiliaryFiles": [
+        "294.js.map"
+      ],
+      "hash": "fe7b0b8153ff24bf94f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "55ddb458c92cd8ceed3c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 38955,
+      "sizes": {
+        "javascript": 38955
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "418.js"
+      ],
+      "auxiliaryFiles": [
+        "418.js.map"
+      ],
+      "hash": "fddcf9848ccb9d1ab790",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 93561,
+      "sizes": {
+        "javascript": 93561
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "536.js"
+      ],
+      "auxiliaryFiles": [
+        "536.js.map"
+      ],
+      "hash": "af9b3d12aea87d6d8938",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 59,
+      "sizes": {
+        "javascript": 59
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b6551ae0516e87b30f48",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1759,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 1675
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "804.js"
+      ],
+      "auxiliaryFiles": [
+        "804.js.map"
+      ],
+      "hash": "89a98eea1bf21c3fcb0f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21747,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 168,
+        "runtime": 18170
+      },
+      "names": [
+        "@mhiseg/esm-home-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "mhiseg-esm-home-app.js"
+      ],
+      "auxiliaryFiles": [
+        "mhiseg-esm-home-app.js.map"
+      ],
+      "hash": "4d63d2e951af1c5d2c56",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2984,
+      "sizes": {
+        "javascript": 2942,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@mhiseg/esm-home-app"
+      ],
+      "files": [
+        "867.js"
+      ],
+      "auxiliaryFiles": [
+        "867.js.map"
+      ],
+      "hash": "280d1e3125b0369a88dc",
+      "childrenByOrder": {}
+    }
+  ]
+}
